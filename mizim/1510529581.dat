@@ -1,0 +1,6 @@
+2017-11-12 * XCM guld swap
+    tigoctm:Assets    27500 guld
+    tigoctm:Income:mizim   -27500 guld
+    mizim:Assets     -27500 guld
+    mizim:Expenses:XCM	27500 guld
+
