@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    foxx:Assets                              100 guld
+    foxx:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:foxx                          100 guld

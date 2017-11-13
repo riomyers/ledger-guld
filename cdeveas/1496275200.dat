@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    cdeveas:Assets                              100 guld
+    cdeveas:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:cdeveas                          100 guld

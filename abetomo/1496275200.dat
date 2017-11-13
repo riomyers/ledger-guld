@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    abetomo:Assets                              100 guld
+    abetomo:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:abetomo                          100 guld

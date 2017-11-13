@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    edef1c:Assets                              100 guld
+    edef1c:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:edef1c                          100 guld

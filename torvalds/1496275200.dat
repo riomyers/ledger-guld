@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    torvalds:Assets                              10000 guld
+    torvalds:Income:guld                        -10000 guld
+    guld:Liabilities                         -10000 guld
+    guld:Equity:torvalds                          10000 guld

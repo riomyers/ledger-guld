@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    msikma:Assets                              100 guld
+    msikma:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:msikma                          100 guld

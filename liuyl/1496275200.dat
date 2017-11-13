@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    liuyl:Assets                              100 guld
+    liuyl:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:liuyl                          100 guld

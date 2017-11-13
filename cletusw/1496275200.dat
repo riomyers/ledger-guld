@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    cletusw:Assets                              100 guld
+    cletusw:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:cletusw                          100 guld

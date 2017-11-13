@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    kasperpeulen:Assets                              100 guld
+    kasperpeulen:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:kasperpeulen                          100 guld

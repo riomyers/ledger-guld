@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jgrosso:Assets                              100 guld
+    jgrosso:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:jgrosso                          100 guld

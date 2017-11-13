@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    Mats0:Assets                              100 guld
+    Mats0:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:Mats0                          100 guld

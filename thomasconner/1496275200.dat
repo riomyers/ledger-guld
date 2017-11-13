@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    thomasconner:Assets                              100 guld
+    thomasconner:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:thomasconner                          100 guld

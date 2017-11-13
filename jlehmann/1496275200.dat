@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jlehmann:Assets                              100 guld
+    jlehmann:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:jlehmann                          100 guld

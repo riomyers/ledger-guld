@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    RubenVerborgh:Assets                              100 guld
+    RubenVerborgh:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:RubenVerborgh                          100 guld

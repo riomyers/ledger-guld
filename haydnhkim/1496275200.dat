@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    haydnhkim:Assets                              100 guld
+    haydnhkim:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:haydnhkim                          100 guld

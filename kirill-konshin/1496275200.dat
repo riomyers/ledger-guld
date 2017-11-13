@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    kirill-konshin:Assets                              100 guld
+    kirill-konshin:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:kirill-konshin                          100 guld

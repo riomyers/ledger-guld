@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jimt:Assets                              100 guld
+    jimt:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:jimt                          100 guld

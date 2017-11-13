@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    can3p:Assets                              100 guld
+    can3p:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:can3p                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    joshuacolvin:Assets                              100 guld
+    joshuacolvin:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:joshuacolvin                          100 guld

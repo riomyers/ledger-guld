@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    gdi2290:Assets                              100 guld
+    gdi2290:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:gdi2290                          100 guld

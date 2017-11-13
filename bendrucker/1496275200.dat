@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    bendrucker:Assets                              100 guld
+    bendrucker:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:bendrucker                          100 guld

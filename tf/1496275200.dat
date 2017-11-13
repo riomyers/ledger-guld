@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    tf:Assets                              100 guld
+    tf:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:tf                          100 guld

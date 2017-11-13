@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jpls93:Assets                              100 guld
+    jpls93:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:jpls93                          100 guld

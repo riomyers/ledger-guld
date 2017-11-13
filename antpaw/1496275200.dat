@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    antpaw:Assets                              100 guld
+    antpaw:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:antpaw                          100 guld

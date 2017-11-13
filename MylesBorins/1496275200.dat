@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    MylesBorins:Assets                              100 guld
+    MylesBorins:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:MylesBorins                          100 guld

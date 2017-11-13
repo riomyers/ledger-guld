@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    happyalu:Assets                              100 guld
+    happyalu:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:happyalu                          100 guld

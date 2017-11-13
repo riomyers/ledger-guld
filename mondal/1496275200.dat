@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    mondal:Assets                              1000 guld
+    mondal:Income:guld                        -1000 guld
+    guld:Liabilities                         -1000 guld
+    guld:Equity:mondal                          1000 guld

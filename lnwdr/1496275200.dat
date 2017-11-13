@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    lnwdr:Assets                              100 guld
+    lnwdr:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:lnwdr                          100 guld

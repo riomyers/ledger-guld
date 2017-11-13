@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    KarthikNayak:Assets                              100 guld
+    KarthikNayak:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:KarthikNayak                          100 guld

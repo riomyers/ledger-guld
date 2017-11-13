@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jakubpawlowicz:Assets                              100 guld
+    jakubpawlowicz:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:jakubpawlowicz                          100 guld

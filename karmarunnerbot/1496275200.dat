@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    karmarunnerbot:Assets                              100 guld
+    karmarunnerbot:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:karmarunnerbot                          100 guld

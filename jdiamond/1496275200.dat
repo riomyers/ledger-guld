@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jdiamond:Assets                              100 guld
+    jdiamond:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:jdiamond                          100 guld

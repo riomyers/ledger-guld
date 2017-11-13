@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    budde377:Assets                              100 guld
+    budde377:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:budde377                          100 guld

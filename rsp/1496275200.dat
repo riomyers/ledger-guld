@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    rsp:Assets                              100 guld
+    rsp:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:rsp                          100 guld

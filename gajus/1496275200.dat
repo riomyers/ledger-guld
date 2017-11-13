@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    gajus:Assets                              100 guld
+    gajus:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:gajus                          100 guld

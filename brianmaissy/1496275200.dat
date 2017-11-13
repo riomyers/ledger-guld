@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    brianmaissy:Assets                              100 guld
+    brianmaissy:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:brianmaissy                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    guybedford:Assets                              100 guld
+    guybedford:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:guybedford                          100 guld

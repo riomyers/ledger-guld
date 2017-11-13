@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    gscottolson:Assets                              100 guld
+    gscottolson:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:gscottolson                          100 guld

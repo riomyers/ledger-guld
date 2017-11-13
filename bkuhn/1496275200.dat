@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    bkuhn:Assets                              600 guld
+    bkuhn:Income:guld                        -600 guld
+    guld:Liabilities                         -600 guld
+    guld:Equity:bkuhn                          600 guld

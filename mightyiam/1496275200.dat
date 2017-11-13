@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    mightyiam:Assets                              100 guld
+    mightyiam:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:mightyiam                          100 guld

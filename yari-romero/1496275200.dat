@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    yari-romero:Assets                              1000 guld
+    yari-romero:Income:guld                        -1000 guld
+    guld:Liabilities                         -1000 guld
+    guld:Equity:yari-romero                          1000 guld

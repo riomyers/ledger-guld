@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    mafintosh:Assets                              100 guld
+    mafintosh:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:mafintosh                          100 guld

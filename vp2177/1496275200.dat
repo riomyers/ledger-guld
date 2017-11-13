@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    vp2177:Assets                              100 guld
+    vp2177:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:vp2177                          100 guld

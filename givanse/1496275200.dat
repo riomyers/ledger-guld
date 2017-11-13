@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    givanse:Assets                              100 guld
+    givanse:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:givanse                          100 guld

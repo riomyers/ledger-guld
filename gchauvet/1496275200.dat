@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    gchauvet:Assets                              100 guld
+    gchauvet:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:gchauvet                          100 guld

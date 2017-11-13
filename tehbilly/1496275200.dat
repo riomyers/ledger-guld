@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    tehbilly:Assets                              100 guld
+    tehbilly:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:tehbilly                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    p00ya:Assets                              100 guld
+    p00ya:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:p00ya                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    ThomasBem:Assets                              100 guld
+    ThomasBem:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:ThomasBem                          100 guld

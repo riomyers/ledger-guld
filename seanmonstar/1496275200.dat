@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    seanmonstar:Assets                              100 guld
+    seanmonstar:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:seanmonstar                          100 guld

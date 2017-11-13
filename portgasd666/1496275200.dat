@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    portgasd666:Assets                              100 guld
+    portgasd666:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:portgasd666                          100 guld

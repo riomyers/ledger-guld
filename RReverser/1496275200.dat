@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    RReverser:Assets                              100 guld
+    RReverser:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:RReverser                          100 guld

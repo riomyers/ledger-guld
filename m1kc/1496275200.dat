@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    m1kc:Assets                              100 guld
+    m1kc:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:m1kc                          100 guld

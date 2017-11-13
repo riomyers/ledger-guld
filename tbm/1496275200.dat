@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    tbm:Assets                              700 guld
+    tbm:Income:guld                        -700 guld
+    guld:Liabilities                         -700 guld
+    guld:Equity:tbm                          700 guld

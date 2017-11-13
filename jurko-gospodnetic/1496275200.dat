@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jurko-gospodnetic:Assets                              100 guld
+    jurko-gospodnetic:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:jurko-gospodnetic                          100 guld

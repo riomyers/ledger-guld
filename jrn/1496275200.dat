@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jrn:Assets                              800 guld
+    jrn:Income:guld                        -800 guld
+    guld:Liabilities                         -800 guld
+    guld:Equity:jrn                          800 guld

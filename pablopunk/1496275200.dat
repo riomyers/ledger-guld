@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    pablopunk:Assets                              100 guld
+    pablopunk:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:pablopunk                          100 guld

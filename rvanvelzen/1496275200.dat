@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    rvanvelzen:Assets                              100 guld
+    rvanvelzen:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:rvanvelzen                          100 guld

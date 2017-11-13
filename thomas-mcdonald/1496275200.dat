@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    thomas-mcdonald:Assets                              100 guld
+    thomas-mcdonald:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:thomas-mcdonald                          100 guld

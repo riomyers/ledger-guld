@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    heavyk:Assets                              100 guld
+    heavyk:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:heavyk                          100 guld

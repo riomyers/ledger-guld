@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jeffwilcox:Assets                              100 guld
+    jeffwilcox:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:jeffwilcox                          100 guld

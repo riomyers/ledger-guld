@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jorge-farias:Assets                              1000 guld
+    jorge-farias:Income:guld                        -1000 guld
+    guld:Liabilities                         -1000 guld
+    guld:Equity:jorge-farias                          1000 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    drcapulet:Assets                              100 guld
+    drcapulet:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:drcapulet                          100 guld

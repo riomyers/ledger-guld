@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    errge:Assets                              100 guld
+    errge:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:errge                          100 guld

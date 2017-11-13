@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    davidecarlier:Assets                              100 guld
+    davidecarlier:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:davidecarlier                          100 guld

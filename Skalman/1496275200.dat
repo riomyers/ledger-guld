@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    Skalman:Assets                              100 guld
+    Skalman:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:Skalman                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    pifantastic:Assets                              100 guld
+    pifantastic:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:pifantastic                          100 guld

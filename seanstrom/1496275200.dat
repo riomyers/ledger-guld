@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    seanstrom:Assets                              100 guld
+    seanstrom:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:seanstrom                          100 guld

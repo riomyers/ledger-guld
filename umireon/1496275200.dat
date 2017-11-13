@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    umireon:Assets                              100 guld
+    umireon:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:umireon                          100 guld

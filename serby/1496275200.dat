@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    serby:Assets                              100 guld
+    serby:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:serby                          100 guld

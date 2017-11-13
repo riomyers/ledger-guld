@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    trevorah:Assets                              100 guld
+    trevorah:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:trevorah                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    yamadapc:Assets                              100 guld
+    yamadapc:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:yamadapc                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    finnp:Assets                              100 guld
+    finnp:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:finnp                          100 guld

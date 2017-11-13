@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    Enet4:Assets                              100 guld
+    Enet4:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:Enet4                          100 guld

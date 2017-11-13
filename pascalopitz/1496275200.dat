@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    pascalopitz:Assets                              100 guld
+    pascalopitz:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:pascalopitz                          100 guld

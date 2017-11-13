@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    micromaomao:Assets                              100 guld
+    micromaomao:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:micromaomao                          100 guld

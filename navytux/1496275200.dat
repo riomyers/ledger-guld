@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    navytux:Assets                              100 guld
+    navytux:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:navytux                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    ymainier:Assets                              100 guld
+    ymainier:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:ymainier                          100 guld

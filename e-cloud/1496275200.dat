@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    e-cloud:Assets                              100 guld
+    e-cloud:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:e-cloud                          100 guld

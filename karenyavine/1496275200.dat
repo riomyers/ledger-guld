@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    karenyavine:Assets                              100 guld
+    karenyavine:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:karenyavine                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    timjk:Assets                              100 guld
+    timjk:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:timjk                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    geraldalewis:Assets                              100 guld
+    geraldalewis:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:geraldalewis                          100 guld

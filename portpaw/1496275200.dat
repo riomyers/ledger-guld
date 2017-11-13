@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    portpaw:Assets                              100 guld
+    portpaw:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:portpaw                          100 guld

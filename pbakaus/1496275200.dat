@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    pbakaus:Assets                              100 guld
+    pbakaus:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:pbakaus                          100 guld

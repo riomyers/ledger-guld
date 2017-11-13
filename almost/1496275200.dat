@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    almost:Assets                              100 guld
+    almost:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:almost                          100 guld

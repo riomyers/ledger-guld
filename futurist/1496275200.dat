@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    futurist:Assets                              100 guld
+    futurist:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:futurist                          100 guld

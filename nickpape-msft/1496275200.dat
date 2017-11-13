@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    nickpape-msft:Assets                              100 guld
+    nickpape-msft:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:nickpape-msft                          100 guld

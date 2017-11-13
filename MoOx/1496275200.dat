@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    MoOx:Assets                              100 guld
+    MoOx:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:MoOx                          100 guld

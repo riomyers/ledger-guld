@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    titarenko:Assets                              100 guld
+    titarenko:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:titarenko                          100 guld

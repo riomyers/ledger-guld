@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    brandonhorst:Assets                              100 guld
+    brandonhorst:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:brandonhorst                          100 guld

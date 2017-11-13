@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    PierBover:Assets                              100 guld
+    PierBover:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:PierBover                          100 guld

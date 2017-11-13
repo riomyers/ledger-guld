@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    vnwildman:Assets                              100 guld
+    vnwildman:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:vnwildman                          100 guld

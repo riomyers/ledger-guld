@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    henvic:Assets                              100 guld
+    henvic:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:henvic                          100 guld

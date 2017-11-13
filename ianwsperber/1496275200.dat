@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    ianwsperber:Assets                              100 guld
+    ianwsperber:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:ianwsperber                          100 guld

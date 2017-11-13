@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    echarp:Assets                              100 guld
+    echarp:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:echarp                          100 guld

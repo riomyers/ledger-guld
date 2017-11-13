@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    rixth:Assets                              100 guld
+    rixth:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:rixth                          100 guld

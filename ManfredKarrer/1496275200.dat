@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    ManfredKarrer:Assets                              5000 guld
+    ManfredKarrer:Income:guld                        -5000 guld
+    guld:Liabilities                         -5000 guld
+    guld:Equity:ManfredKarrer                          5000 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    SamWhited:Assets                              100 guld
+    SamWhited:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:SamWhited                          100 guld

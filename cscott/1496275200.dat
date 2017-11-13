@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    cscott:Assets                              100 guld
+    cscott:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:cscott                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    rexxars:Assets                              100 guld
+    rexxars:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:rexxars                          100 guld

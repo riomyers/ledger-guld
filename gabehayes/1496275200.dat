@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    gabehayes:Assets                              100 guld
+    gabehayes:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:gabehayes                          100 guld

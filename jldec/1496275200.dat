@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jldec:Assets                              100 guld
+    jldec:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:jldec                          100 guld

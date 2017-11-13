@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    AnaHilarski:Assets                              2500 guld
+    AnaHilarski:Income:guld                        -2500 guld
+    guld:Liabilities                         -2500 guld
+    guld:Equity:AnaHilarski                          2500 guld

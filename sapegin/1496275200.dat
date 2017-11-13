@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    sapegin:Assets                              100 guld
+    sapegin:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:sapegin                          100 guld

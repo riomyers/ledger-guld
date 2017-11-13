@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    brandonaaron:Assets                              100 guld
+    brandonaaron:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:brandonaaron                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jkrems:Assets                              100 guld
+    jkrems:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:jkrems                          100 guld

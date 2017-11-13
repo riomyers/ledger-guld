@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jefflembeck:Assets                              100 guld
+    jefflembeck:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:jefflembeck                          100 guld

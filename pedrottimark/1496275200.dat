@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    pedrottimark:Assets                              100 guld
+    pedrottimark:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:pedrottimark                          100 guld

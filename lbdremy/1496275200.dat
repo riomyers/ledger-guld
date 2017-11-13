@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    lbdremy:Assets                              100 guld
+    lbdremy:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:lbdremy                          100 guld

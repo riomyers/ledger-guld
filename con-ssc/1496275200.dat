@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    con-ssc:Assets                              100 guld
+    con-ssc:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:con-ssc                          100 guld

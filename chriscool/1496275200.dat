@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    chriscool:Assets                              500 guld
+    chriscool:Income:guld                        -500 guld
+    guld:Liabilities                         -500 guld
+    guld:Equity:chriscool                          500 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    loops:Assets                              100 guld
+    loops:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:loops                          100 guld

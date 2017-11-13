@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    dodubassman:Assets                              100 guld
+    dodubassman:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:dodubassman                          100 guld

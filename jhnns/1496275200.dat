@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jhnns:Assets                              100 guld
+    jhnns:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:jhnns                          100 guld

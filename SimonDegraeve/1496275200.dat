@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    SimonDegraeve:Assets                              100 guld
+    SimonDegraeve:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:SimonDegraeve                          100 guld

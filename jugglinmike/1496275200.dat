@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jugglinmike:Assets                              100 guld
+    jugglinmike:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:jugglinmike                          100 guld

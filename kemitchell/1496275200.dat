@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    kemitchell:Assets                              100 guld
+    kemitchell:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:kemitchell                          100 guld

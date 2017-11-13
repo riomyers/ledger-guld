@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    peterbraden:Assets                              100 guld
+    peterbraden:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:peterbraden                          100 guld

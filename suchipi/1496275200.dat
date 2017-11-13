@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    suchipi:Assets                              100 guld
+    suchipi:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:suchipi                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    samt:Assets                              100 guld
+    samt:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:samt                          100 guld

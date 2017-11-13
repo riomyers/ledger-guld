@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    Kikobeats:Assets                              100 guld
+    Kikobeats:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:Kikobeats                          100 guld

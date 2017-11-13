@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    carsonip:Assets                              100 guld
+    carsonip:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:carsonip                          100 guld

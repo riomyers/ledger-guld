@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    ahocevar:Assets                              100 guld
+    ahocevar:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:ahocevar                          100 guld

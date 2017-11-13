@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    aehaynes:Assets                              10000 guld
+    aehaynes:Income:guld                        -10000 guld
+    guld:Liabilities                         -10000 guld
+    guld:Equity:aehaynes                          10000 guld

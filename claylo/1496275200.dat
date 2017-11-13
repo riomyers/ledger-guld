@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    claylo:Assets                              100 guld
+    claylo:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:claylo                          100 guld

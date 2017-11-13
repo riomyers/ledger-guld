@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    karissa:Assets                              100 guld
+    karissa:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:karissa                          100 guld

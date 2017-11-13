@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    Awk34:Assets                              100 guld
+    Awk34:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:Awk34                          100 guld

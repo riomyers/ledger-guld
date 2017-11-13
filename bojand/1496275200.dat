@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    bojand:Assets                              100 guld
+    bojand:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:bojand                          100 guld

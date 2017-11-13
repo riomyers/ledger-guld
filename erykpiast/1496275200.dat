@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    erykpiast:Assets                              100 guld
+    erykpiast:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:erykpiast                          100 guld

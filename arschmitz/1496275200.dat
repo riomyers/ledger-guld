@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    arschmitz:Assets                              100 guld
+    arschmitz:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:arschmitz                          100 guld

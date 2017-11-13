@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    zlatko:Assets                              1000 guld
+    zlatko:Income:guld                        -1000 guld
+    guld:Liabilities                         -1000 guld
+    guld:Equity:zlatko                          1000 guld

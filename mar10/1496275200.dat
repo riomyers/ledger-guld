@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    mar10:Assets                              100 guld
+    mar10:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:mar10                          100 guld
