@@ -1,0 +1,5 @@
+2017/12/15 * Spartan Consulting
+    guld-jesus:Assets                              1000 guld
+    guld-jesus:Income:guld                        -1000 guld
+    guld:Liabilities                              -1000 guld
+    guld:Equity:guld-jesus                          1000 guld

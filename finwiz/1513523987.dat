@@ -1,0 +1,5 @@
+2017/12/17 * Spartan Consulting
+    finwiz:Assets                              100 guld
+    finwiz:Income:guld                         -100 guld
+    guld:Liabilities                           -100 guld
+    guld:Equity:finwiz                         100 guld

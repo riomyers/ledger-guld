@@ -1,0 +1,5 @@
+2017/12/17 * Guld UI Consulting
+    cmejia:Assets                              100 guld
+    cmejia:Income:guld                         -100 guld
+    guld:Liabilities                           -100 guld
+    guld:Equity:cmejia                         100 guld
