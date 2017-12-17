@@ -1,0 +1,5 @@
+2017/12/17 * Guld consulting
+    goldchamp:Assets                              100 guld
+    goldchamp:Income:guld                         -100 guld
+    guld:Liabilities                           -100 guld
+    guld:Equity:goldchamp                         100 guld
