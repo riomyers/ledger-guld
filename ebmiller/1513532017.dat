@@ -1,0 +1,5 @@
+2017/12/17 * guld.email beta testing
+    ebmiller:Assets                              10 guld
+    ebmiller:Income:guld                         -10 guld
+    guld:Liabilities                           -10 guld
+    guld:Equity:ebmiller                         10 guld
