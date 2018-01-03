@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jvkatzman:Assets                              100 guld
-    jvkatzman:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jvkatzman                          100 guld
+    jvkatzman:Assets                              10000 guld
+    jvkatzman:Income:guld                        -10000 guld
+    guld:Liabilities                             -10000 guld
+    guld:Equity:jvkatzman                        10000 guld

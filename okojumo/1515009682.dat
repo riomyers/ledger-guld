@@ -1,0 +1,5 @@
+2018/01/03 * guld pre-founding contributions
+    okojumo:Assets                              1000 guld
+    okojumo:Income:guld                        -1000 guld
+    guld:Liabilities                           -1000 guld
+    guld:Equity:okojumo                         1000 guld
