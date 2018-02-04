@@ -1,0 +1,177 @@
+Delivered-To: public@iramiller.com
+Received-SPF: pass (zoho.com: domain of apps.com.pa designates 192.185.146.78 as permitted sender) client-ip=192.185.146.78; envelope-from=gm@apps.com.pa; helo=gateway33.websitewelcome.com;
+Authentication-Results: mx.zohomail.com;
+	dkim=pass;
+	spf=pass (zoho.com: domain of apps.com.pa designates 192.185.146.78 as permitted sender)  smtp.mailfrom=gm@apps.com.pa
+Return-Path: <gm@apps.com.pa>
+Received: from gateway33.websitewelcome.com (gateway33.websitewelcome.com [192.185.146.78]) by mx.zohomail.com
+	with SMTPS id 1517715429765422.87526826808937; Sat, 3 Feb 2018 19:37:09 -0800 (PST)
+Received: from cm16.websitewelcome.com (cm16.websitewelcome.com [100.42.49.19])
+	by gateway33.websitewelcome.com (Postfix) with ESMTP id 3E3494BF46
+	for <public@iramiller.com>; Sat,  3 Feb 2018 21:37:03 -0600 (CST)
+Received: from gator4039.hostgator.com ([192.185.4.50])
+	by cmsmtp with SMTP
+	id iB71eFRN8ODN4iB71eA9NU; Sat, 03 Feb 2018 21:37:03 -0600
+Received: from [190.219.108.121] (port=54976 helo=DESKTOPV0LMP4Q)
+	by gator4039.hostgator.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <gm@apps.com.pa>)
+	id 1eiB6z-002aWt-R8
+	for public@iramiller.com; Sat, 03 Feb 2018 21:37:02 -0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=apps.com.pa
+	; s=default; h=Content-Type:MIME-Version:Message-ID:Date:Subject:To:From:
+	Sender:Reply-To:Cc:Content-Transfer-Encoding:Content-ID:Content-Description:
+	Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:
+	In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=XXxooEwI1sajb3p3S2c9/fYH+ELDXE/fafhL/qKVwsk=; b=ToPbvm8NESIXx/FnZ0b9O+fZA4
+	pJChMOiE8CcSZcLfV06v+54FIssy0dfY7+TaCYZXAb3IeovDeXcdnBDc93Bst2EjFpYPkCFCuW7QV
+	oFjgS5N+LbVIl+OKYuLg4ys8FQWAT61GBWLOhxS4oZ/3nHCfaZGp3hZuwDn2qp7urtCiSF1urGJIM
+	0Nx5c17RwGInbNBL7MExUDzPumc5Qmvke20JRXTF8W0PPOGycmzYhdoC2b0kgGMi4nk1szSwo2aGK
+	g3MlhOZw/rEvvsHiHuQc2ALSCbrAQ9Gp3SK0xh9kf7l6hDpoWbInk54GRn67ucntxChocajkaez7I
+	c6JaUg+Q==;
+From: <gm@apps.com.pa>
+To: <public@iramiller.com>
+Subject: refund guld chat project
+Date: Sat, 3 Feb 2018 22:37:02 -0500
+Message-ID: <07cd01d39d69$6c9298f0$45b7cad0$@apps.com.pa>
+X-Mailer: Microsoft Outlook 16.0
+Content-Language: en-us
+MIME-Version: 1.0
+Thread-Index: AdOdaWLPe7wReN8iSnSu27aAzKPuHA==
+Content-Type: multipart/signed;
+	protocol="application/pgp-signature";
+	micalg=pgp-sha1;
+	boundary="=-=jRHVGU6EhN3a47=-="
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - gator4039.hostgator.com
+X-AntiAbuse: Original Domain - iramiller.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - apps.com.pa
+X-BWhitelist: no
+X-Source-IP: 190.219.108.121
+X-Source-L: No
+X-Exim-ID: 1eiB6z-002aWt-R8
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Source-Sender: (DESKTOPV0LMP4Q) [190.219.108.121]:54976
+X-Source-Auth: gm@apps.com.pa
+X-Email-Count: 2
+X-Source-Cap: Y2FuYWxwbHVzO2NhbmFscGx1cztnYXRvcjQwMzkuaG9zdGdhdG9yLmNvbQ==
+X-Local-Domain: yes
+X-Zoho-Virus-Status: 1
+X-ZohoMail-DKIM: pass (identity @apps.com.pa)
+X-ZohoMail: RDKM_0  RSF_0  Z_644911882 SPT_1 Z_644913016 SPT_1 UDT_5 RF_0 SPK
+
+This is a multipart message in MIME format.
+
+--=-=jRHVGU6EhN3a47=-=
+Content-Type: multipart/alternative;
+	boundary="=-=M/jsgKtO707DJN=-="
+
+
+--=-=M/jsgKtO707DJN=-=
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+2018/02/04 * guld.chat refund
+
+    ; timestamp: 1517714017
+
+    gfmileo:Assets                              -10000 guld
+
+    gfmileo:Income:guld                         10000 guld
+
+    guld:Liabilities                           10000 guld
+
+    guld:Equity:gfmileo                         -10000 guld
+
+--=-=M/jsgKtO707DJN=-=
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><meta name=3DGenerator content=3D"Microso=
+ft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EstiloCorreo17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3D"#0563C1=
+" vlink=3D"#954F72"><div class=3DWordSection1><p class=3DMsoNormal>2018/02/=
+04 * guld.chat refund<o:p></o:p></p><p class=3DMsoNormal>&nbsp;&nbsp;&nbsp;=
+ ; timestamp: 1517714017<o:p></o:p></p><p class=3DMsoNormal>&nbsp;&nbsp;&nb=
+sp; gfmileo:Assets&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -10000 guld<o:p></o:p></p><p cla=
+ss=3DMsoNormal>&nbsp;&nbsp;&nbsp; gfmileo:Income:guld&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10000 guld<o:p></o:p></p><p=
+ class=3DMsoNormal>&nbsp;&nbsp;&nbsp; guld:Liabilities&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10000 guld<o:p=
+></o:p></p><p class=3DMsoNormal>&nbsp;&nbsp;&nbsp; guld:Equity:gfmileo&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -10000 gul=
+d<o:p></o:p></p></div></body></html>
+
+--=-=M/jsgKtO707DJN=-=--
+
+--=-=jRHVGU6EhN3a47=-=
+Content-Transfer-Encoding: 7bit
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAABCAAdFiEEN+T0aUGXW0Fj/uwHQ1Q9STaCADAFAlp2f90ACgkQQ1Q9STaC
+ADB4Ogf+IoPCoBJwC65Upazvg6ijBrmEdWIMT3mgPIYpbvA+XkOQgRhEipn55mh1
+nrtQOkZiF+MV9Yb+IeNZCw2Dn4SKhLKDf9rcQNTJ4Cv0BgjqcquQfkcBawSh6sym
+gc7WILjnLLhfEqlnd0sdff+zhKsW3sOi93BHPmkyxHCjJBOADY4jWaYkevEf6FVa
+DMv6TeNG9ycrhgQWJTc2GhAJp1nOrW1JgoDnWWmEE26A7QI8gideCth2nUnlWfZR
+3pWIkkxGluGUwBlXrL1AUE7gqlHQiQyE6HnzsXH5wZYg+2SIzA4JKGxTO1letarz
+kU4s4sf54Jzq7LwfpKtapybieS1XXg==
+=Zcij
+-----END PGP SIGNATURE-----
+
+
+--=-=jRHVGU6EhN3a47=-=--
+
