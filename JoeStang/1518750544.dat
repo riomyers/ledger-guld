@@ -1,0 +1,6 @@
+2018/02/01 * guldOS Tester Seminar 2 completion
+    JoeStang:Assets                              10 guld
+    JoeStang:Income:guld                        -10 guld
+    guld:Liabilities                                 -10 guld
+    guld:Equity:JoeStang                         10 guld
+
