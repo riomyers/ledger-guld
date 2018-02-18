@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    fuco1:Assets                              100 guld
+    fuco1:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:fuco1                          100 guld

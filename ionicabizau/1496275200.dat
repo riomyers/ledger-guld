@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    ionicabizau:Assets                              100 guld
+    ionicabizau:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:ionicabizau                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    marshallofsound:Assets                              100 guld
+    marshallofsound:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:marshallofsound                          100 guld

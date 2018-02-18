@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    luk4sg:Assets                              100 guld
+    luk4sg:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:luk4sg                          100 guld

@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    enzomartin:Assets                              100 guld
+    enzomartin:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:enzomartin                          100 guld

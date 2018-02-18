@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    fotoverite:Assets                              100 guld
+    fotoverite:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:fotoverite                          100 guld

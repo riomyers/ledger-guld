@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    burntsushi:Assets                              100 guld
+    burntsushi:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:burntsushi                          100 guld

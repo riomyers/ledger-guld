@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    unquietcode:Assets                              100 guld
+    unquietcode:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:unquietcode                          100 guld

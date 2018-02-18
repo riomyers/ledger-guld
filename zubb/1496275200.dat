@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    zubb:Assets                              100 guld
+    zubb:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:zubb                          100 guld

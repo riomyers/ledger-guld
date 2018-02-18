@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    kyleamathews:Assets                              100 guld
+    kyleamathews:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:kyleamathews                          100 guld

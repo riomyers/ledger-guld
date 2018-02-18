@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    volune:Assets                              100 guld
+    volune:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:volune                          100 guld

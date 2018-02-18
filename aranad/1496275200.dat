@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    aranad:Assets                              100 guld
+    aranad:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:aranad                          100 guld

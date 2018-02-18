@@ -1,0 +1,5 @@
+2017/12/01 * guldOS Tester Seminar 1 completion
+    anahilarski:Assets                              50 guld
+    anahilarski:Income:guld                        -50 guld
+    guld:Liabilities                                 -50 guld
+    guld:Equity:anahilarski                         50 guld

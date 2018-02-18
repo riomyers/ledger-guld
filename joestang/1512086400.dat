@@ -1,0 +1,5 @@
+2017/12/01 * guldOS Tester Seminar 1 completion
+    joestang:Assets                              50 guld
+    joestang:Income:guld                        -50 guld
+    guld:Liabilities                                 -50 guld
+    guld:Equity:joestang                         50 guld

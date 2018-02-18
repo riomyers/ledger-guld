@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    loicmahieu:Assets                              100 guld
+    loicmahieu:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:loicmahieu                          100 guld

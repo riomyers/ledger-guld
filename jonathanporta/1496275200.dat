@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    jonathanporta:Assets                              100 guld
+    jonathanporta:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:jonathanporta                          100 guld

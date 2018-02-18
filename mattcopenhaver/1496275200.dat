@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    mattcopenhaver:Assets                              100 guld
+    mattcopenhaver:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:mattcopenhaver                          100 guld

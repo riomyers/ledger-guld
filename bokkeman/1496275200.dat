@@ -1,0 +1,5 @@
+2016/06/01 * guld pre-founding contributions
+    bokkeman:Assets                              100 guld
+    bokkeman:Income:guld                        -100 guld
+    guld:Liabilities                         -100 guld
+    guld:Equity:bokkeman                          100 guld
