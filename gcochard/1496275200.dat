@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    gcochard:Assets                              100 guld
-    gcochard:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:gcochard                          100 guld
+    gcochard:Assets                              100 GULD
+    gcochard:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:gcochard                          100 GULD

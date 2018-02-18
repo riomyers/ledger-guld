@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    scottnonnenberg:Assets                              100 guld
-    scottnonnenberg:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:scottnonnenberg                          100 guld
+    scottnonnenberg:Assets                              100 GULD
+    scottnonnenberg:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:scottnonnenberg                          100 GULD

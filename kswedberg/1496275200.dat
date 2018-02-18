@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    kswedberg:Assets                              100 guld
-    kswedberg:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:kswedberg                          100 guld
+    kswedberg:Assets                              100 GULD
+    kswedberg:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:kswedberg                          100 GULD

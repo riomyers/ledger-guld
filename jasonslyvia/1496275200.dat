@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jasonslyvia:Assets                              100 guld
-    jasonslyvia:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jasonslyvia                          100 guld
+    jasonslyvia:Assets                              100 GULD
+    jasonslyvia:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jasonslyvia                          100 GULD

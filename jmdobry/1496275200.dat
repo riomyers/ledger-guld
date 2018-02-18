@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jmdobry:Assets                              100 guld
-    jmdobry:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jmdobry                          100 guld
+    jmdobry:Assets                              100 GULD
+    jmdobry:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jmdobry                          100 GULD

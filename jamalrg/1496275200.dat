@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jamalrg:Assets                              1000 guld
-    jamalrg:Income:guld                        -1000 guld
-    guld:Liabilities                         -1000 guld
-    guld:Equity:jamalrg                          1000 guld
+    jamalrg:Assets                              1000 GULD
+    jamalrg:Income:guld                        -1000 GULD
+    guld:Liabilities                         -1000 GULD
+    guld:Equity:jamalrg                          1000 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    barrythepenguin:Assets                              100 guld
-    barrythepenguin:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:barrythepenguin                          100 guld
+    barrythepenguin:Assets                              100 GULD
+    barrythepenguin:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:barrythepenguin                          100 GULD

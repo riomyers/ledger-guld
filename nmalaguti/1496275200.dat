@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    nmalaguti:Assets                              100 guld
-    nmalaguti:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:nmalaguti                          100 guld
+    nmalaguti:Assets                              100 GULD
+    nmalaguti:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:nmalaguti                          100 GULD

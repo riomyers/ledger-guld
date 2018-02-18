@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    fizker:Assets                              100 guld
-    fizker:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:fizker                          100 guld
+    fizker:Assets                              100 GULD
+    fizker:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:fizker                          100 GULD

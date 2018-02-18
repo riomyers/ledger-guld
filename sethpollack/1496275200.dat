@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    sethpollack:Assets                              100 guld
-    sethpollack:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:sethpollack                          100 guld
+    sethpollack:Assets                              100 GULD
+    sethpollack:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:sethpollack                          100 GULD

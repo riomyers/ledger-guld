@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    lextiz:Assets                              100 guld
-    lextiz:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:lextiz                          100 guld
+    lextiz:Assets                              100 GULD
+    lextiz:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:lextiz                          100 GULD

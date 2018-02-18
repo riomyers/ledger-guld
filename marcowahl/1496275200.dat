@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    marcowahl:Assets                              100 guld
-    marcowahl:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:marcowahl                          100 guld
+    marcowahl:Assets                              100 GULD
+    marcowahl:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:marcowahl                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    lambertsteven:Assets                              100 guld
-    lambertsteven:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:lambertsteven                          100 guld
+    lambertsteven:Assets                              100 GULD
+    lambertsteven:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:lambertsteven                          100 GULD

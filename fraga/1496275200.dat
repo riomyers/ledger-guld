@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    fraga:Assets                              100 guld
-    fraga:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:fraga                          100 guld
+    fraga:Assets                              100 GULD
+    fraga:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:fraga                          100 GULD

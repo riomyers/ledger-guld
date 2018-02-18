@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    geek:Assets                              100 guld
-    geek:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:geek                          100 guld
+    geek:Assets                              100 GULD
+    geek:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:geek                          100 GULD

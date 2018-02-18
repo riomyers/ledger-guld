@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    twada:Assets                              100 guld
-    twada:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:twada                          100 guld
+    twada:Assets                              100 GULD
+    twada:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:twada                          100 GULD

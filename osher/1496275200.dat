@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    osher:Assets                              100 guld
-    osher:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:osher                          100 guld
+    osher:Assets                              100 GULD
+    osher:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:osher                          100 GULD

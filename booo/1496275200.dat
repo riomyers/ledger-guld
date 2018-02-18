@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    booo:Assets                              100 guld
-    booo:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:booo                          100 guld
+    booo:Assets                              100 GULD
+    booo:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:booo                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jasoncwik:Assets                              100 guld
-    jasoncwik:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jasoncwik                          100 guld
+    jasoncwik:Assets                              100 GULD
+    jasoncwik:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jasoncwik                          100 GULD

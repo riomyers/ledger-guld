@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    disjukr:Assets                              100 guld
-    disjukr:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:disjukr                          100 guld
+    disjukr:Assets                              100 GULD
+    disjukr:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:disjukr                          100 GULD

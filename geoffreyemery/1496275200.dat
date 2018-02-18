@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    geoffreyemery:Assets                              100 guld
-    geoffreyemery:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:geoffreyemery                          100 guld
+    geoffreyemery:Assets                              100 GULD
+    geoffreyemery:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:geoffreyemery                          100 GULD

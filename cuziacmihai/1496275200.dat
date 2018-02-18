@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    cuziacmihai:Assets                              100 guld
-    cuziacmihai:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:cuziacmihai                          100 guld
+    cuziacmihai:Assets                              100 GULD
+    cuziacmihai:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:cuziacmihai                          100 GULD

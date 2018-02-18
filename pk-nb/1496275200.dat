@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    pk-nb:Assets                              100 guld
-    pk-nb:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:pk-nb                          100 guld
+    pk-nb:Assets                              100 GULD
+    pk-nb:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:pk-nb                          100 GULD

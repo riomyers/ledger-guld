@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    chicheng:Assets                              100 guld
-    chicheng:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:chicheng                          100 guld
+    chicheng:Assets                              100 GULD
+    chicheng:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:chicheng                          100 GULD

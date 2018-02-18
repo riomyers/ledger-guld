@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    floby:Assets                              100 guld
-    floby:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:floby                          100 guld
+    floby:Assets                              100 GULD
+    floby:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:floby                          100 GULD

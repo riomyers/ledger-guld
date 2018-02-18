@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    glcheetham:Assets                              100 guld
-    glcheetham:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:glcheetham                          100 guld
+    glcheetham:Assets                              100 GULD
+    glcheetham:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:glcheetham                          100 GULD

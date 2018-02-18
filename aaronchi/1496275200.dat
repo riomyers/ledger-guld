@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    aaronchi:Assets                              100 guld
-    aaronchi:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:aaronchi                          100 guld
+    aaronchi:Assets                              100 GULD
+    aaronchi:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:aaronchi                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    wibblymat:Assets                              100 guld
-    wibblymat:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:wibblymat                          100 guld
+    wibblymat:Assets                              100 GULD
+    wibblymat:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:wibblymat                          100 GULD

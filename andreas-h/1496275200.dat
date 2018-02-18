@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    andreas-h:Assets                              100 guld
-    andreas-h:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:andreas-h                          100 guld
+    andreas-h:Assets                              100 GULD
+    andreas-h:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:andreas-h                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    guybrush:Assets                              100 guld
-    guybrush:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:guybrush                          100 guld
+    guybrush:Assets                              100 GULD
+    guybrush:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:guybrush                          100 GULD

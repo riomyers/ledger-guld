@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jghaines:Assets                              100 guld
-    jghaines:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jghaines                          100 guld
+    jghaines:Assets                              100 GULD
+    jghaines:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jghaines                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    mrdnk:Assets                              100 guld
-    mrdnk:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:mrdnk                          100 guld
+    mrdnk:Assets                              100 GULD
+    mrdnk:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:mrdnk                          100 GULD

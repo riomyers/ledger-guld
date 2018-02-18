@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    sneakertack:Assets                              100 guld
-    sneakertack:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:sneakertack                          100 guld
+    sneakertack:Assets                              100 GULD
+    sneakertack:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:sneakertack                          100 GULD

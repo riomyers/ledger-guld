@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    arthurvr:Assets                              100 guld
-    arthurvr:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:arthurvr                          100 guld
+    arthurvr:Assets                              100 GULD
+    arthurvr:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:arthurvr                          100 GULD

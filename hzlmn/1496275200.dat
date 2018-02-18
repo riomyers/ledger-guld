@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    hzlmn:Assets                              100 guld
-    hzlmn:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:hzlmn                          100 guld
+    hzlmn:Assets                              100 GULD
+    hzlmn:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:hzlmn                          100 GULD

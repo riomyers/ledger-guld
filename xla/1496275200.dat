@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    xla:Assets                              100 guld
-    xla:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:xla                          100 guld
+    xla:Assets                              100 GULD
+    xla:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:xla                          100 GULD

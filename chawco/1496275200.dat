@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    chawco:Assets                              100 guld
-    chawco:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:chawco                          100 guld
+    chawco:Assets                              100 GULD
+    chawco:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:chawco                          100 GULD

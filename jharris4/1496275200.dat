@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jharris4:Assets                              100 guld
-    jharris4:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jharris4                          100 guld
+    jharris4:Assets                              100 GULD
+    jharris4:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jharris4                          100 GULD

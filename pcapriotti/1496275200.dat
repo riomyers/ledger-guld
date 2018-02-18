@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    pcapriotti:Assets                              100 guld
-    pcapriotti:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:pcapriotti                          100 guld
+    pcapriotti:Assets                              100 GULD
+    pcapriotti:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:pcapriotti                          100 GULD

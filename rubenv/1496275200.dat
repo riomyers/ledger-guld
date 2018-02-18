@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    rubenv:Assets                              100 guld
-    rubenv:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:rubenv                          100 guld
+    rubenv:Assets                              100 GULD
+    rubenv:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:rubenv                          100 GULD

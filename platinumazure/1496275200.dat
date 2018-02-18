@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    platinumazure:Assets                              100 guld
-    platinumazure:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:platinumazure                          100 guld
+    platinumazure:Assets                              100 GULD
+    platinumazure:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:platinumazure                          100 GULD

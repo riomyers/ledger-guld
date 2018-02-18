@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    fredriknoren:Assets                              100 guld
-    fredriknoren:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:fredriknoren                          100 guld
+    fredriknoren:Assets                              100 GULD
+    fredriknoren:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:fredriknoren                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    drewr:Assets                              100 guld
-    drewr:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:drewr                          100 guld
+    drewr:Assets                              100 GULD
+    drewr:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:drewr                          100 GULD

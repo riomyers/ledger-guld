@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    klamping:Assets                              100 guld
-    klamping:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:klamping                          100 guld
+    klamping:Assets                              100 GULD
+    klamping:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:klamping                          100 GULD

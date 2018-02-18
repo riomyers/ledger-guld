@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    wolfmanx:Assets                              100 guld
-    wolfmanx:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:wolfmanx                          100 guld
+    wolfmanx:Assets                              100 GULD
+    wolfmanx:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:wolfmanx                          100 GULD

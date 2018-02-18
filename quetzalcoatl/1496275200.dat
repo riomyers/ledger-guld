@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    quetzalcoatl:Assets                              100 guld
-    quetzalcoatl:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:quetzalcoatl                          100 guld
+    quetzalcoatl:Assets                              100 GULD
+    quetzalcoatl:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:quetzalcoatl                          100 GULD

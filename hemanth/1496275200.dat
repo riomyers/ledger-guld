@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    hemanth:Assets                              100 guld
-    hemanth:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:hemanth                          100 guld
+    hemanth:Assets                              100 GULD
+    hemanth:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:hemanth                          100 GULD

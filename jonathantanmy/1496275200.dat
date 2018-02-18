@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jonathantanmy:Assets                              100 guld
-    jonathantanmy:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jonathantanmy                          100 guld
+    jonathantanmy:Assets                              100 GULD
+    jonathantanmy:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jonathantanmy                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    hypercubed:Assets                              100 guld
-    hypercubed:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:hypercubed                          100 guld
+    hypercubed:Assets                              100 GULD
+    hypercubed:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:hypercubed                          100 GULD

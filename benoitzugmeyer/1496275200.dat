@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    benoitzugmeyer:Assets                              100 guld
-    benoitzugmeyer:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:benoitzugmeyer                          100 guld
+    benoitzugmeyer:Assets                              100 GULD
+    benoitzugmeyer:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:benoitzugmeyer                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    j2team:Assets                              100 guld
-    j2team:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:j2team                          100 guld
+    j2team:Assets                              100 GULD
+    j2team:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:j2team                          100 GULD

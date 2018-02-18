@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    wong2:Assets                              100 guld
-    wong2:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:wong2                          100 guld
+    wong2:Assets                              100 GULD
+    wong2:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:wong2                          100 GULD

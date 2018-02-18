@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    kiougar:Assets                              100 guld
-    kiougar:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:kiougar                          100 guld
+    kiougar:Assets                              100 GULD
+    kiougar:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:kiougar                          100 GULD

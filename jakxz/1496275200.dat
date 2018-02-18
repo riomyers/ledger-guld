@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jakxz:Assets                              100 guld
-    jakxz:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jakxz                          100 guld
+    jakxz:Assets                              100 GULD
+    jakxz:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jakxz                          100 GULD

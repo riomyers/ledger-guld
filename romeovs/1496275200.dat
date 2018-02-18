@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    romeovs:Assets                              100 guld
-    romeovs:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:romeovs                          100 guld
+    romeovs:Assets                              100 GULD
+    romeovs:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:romeovs                          100 GULD

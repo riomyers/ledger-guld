@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    cgcgbcbc:Assets                              100 guld
-    cgcgbcbc:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:cgcgbcbc                          100 guld
+    cgcgbcbc:Assets                              100 GULD
+    cgcgbcbc:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:cgcgbcbc                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    strathmeyer:Assets                              100 guld
-    strathmeyer:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:strathmeyer                          100 guld
+    strathmeyer:Assets                              100 GULD
+    strathmeyer:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:strathmeyer                          100 GULD

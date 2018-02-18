@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    bripkens:Assets                              100 guld
-    bripkens:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:bripkens                          100 guld
+    bripkens:Assets                              100 GULD
+    bripkens:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:bripkens                          100 GULD

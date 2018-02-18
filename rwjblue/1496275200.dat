@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    rwjblue:Assets                              100 guld
-    rwjblue:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:rwjblue                          100 guld
+    rwjblue:Assets                              100 GULD
+    rwjblue:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:rwjblue                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    medikoo:Assets                              100 guld
-    medikoo:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:medikoo                          100 guld
+    medikoo:Assets                              100 GULD
+    medikoo:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:medikoo                          100 GULD

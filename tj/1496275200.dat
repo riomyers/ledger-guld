@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    tj:Assets                              100 guld
-    tj:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:tj                          100 guld
+    tj:Assets                              100 GULD
+    tj:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:tj                          100 GULD

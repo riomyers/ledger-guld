@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    dignifiedquire:Assets                              100 guld
-    dignifiedquire:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:dignifiedquire                          100 guld
+    dignifiedquire:Assets                              100 GULD
+    dignifiedquire:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:dignifiedquire                          100 GULD

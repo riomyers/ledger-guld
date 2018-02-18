@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    keskival:Assets                              100 guld
-    keskival:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:keskival                          100 guld
+    keskival:Assets                              100 GULD
+    keskival:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:keskival                          100 GULD

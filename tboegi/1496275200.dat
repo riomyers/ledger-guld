@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    tboegi:Assets                              100 guld
-    tboegi:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:tboegi                          100 guld
+    tboegi:Assets                              100 GULD
+    tboegi:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:tboegi                          100 GULD

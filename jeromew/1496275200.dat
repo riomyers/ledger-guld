@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jeromew:Assets                              100 guld
-    jeromew:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jeromew                          100 guld
+    jeromew:Assets                              100 GULD
+    jeromew:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jeromew                          100 GULD

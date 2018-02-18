@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jpiepkow:Assets                              100 guld
-    jpiepkow:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jpiepkow                          100 guld
+    jpiepkow:Assets                              100 GULD
+    jpiepkow:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jpiepkow                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    frekui:Assets                              100 guld
-    frekui:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:frekui                          100 guld
+    frekui:Assets                              100 GULD
+    frekui:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:frekui                          100 GULD

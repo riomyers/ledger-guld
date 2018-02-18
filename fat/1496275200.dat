@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    fat:Assets                              100 guld
-    fat:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:fat                          100 guld
+    fat:Assets                              100 GULD
+    fat:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:fat                          100 GULD

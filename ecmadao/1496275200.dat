@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    ecmadao:Assets                              100 guld
-    ecmadao:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:ecmadao                          100 guld
+    ecmadao:Assets                              100 GULD
+    ecmadao:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:ecmadao                          100 GULD

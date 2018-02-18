@@ -1,5 +1,5 @@
 2017/12/01 * guldOS Tester Seminar 1 completion
-    randyhilarski:Assets                              50 guld
-    randyhilarski:Income:guld                        -50 guld
-    guld:Liabilities                                 -50 guld
-    guld:Equity:randyhilarski                         50 guld
+    randyhilarski:Assets                              50 GULD
+    randyhilarski:Income:guld                        -50 GULD
+    guld:Liabilities                                 -50 GULD
+    guld:Equity:randyhilarski                         50 GULD

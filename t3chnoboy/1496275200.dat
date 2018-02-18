@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    t3chnoboy:Assets                              100 guld
-    t3chnoboy:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:t3chnoboy                          100 guld
+    t3chnoboy:Assets                              100 GULD
+    t3chnoboy:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:t3chnoboy                          100 GULD

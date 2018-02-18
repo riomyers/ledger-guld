@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    thejameskyle:Assets                              100 guld
-    thejameskyle:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:thejameskyle                          100 guld
+    thejameskyle:Assets                              100 GULD
+    thejameskyle:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:thejameskyle                          100 GULD

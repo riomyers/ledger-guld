@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    vincentwoo:Assets                              100 guld
-    vincentwoo:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:vincentwoo                          100 guld
+    vincentwoo:Assets                              100 GULD
+    vincentwoo:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:vincentwoo                          100 GULD

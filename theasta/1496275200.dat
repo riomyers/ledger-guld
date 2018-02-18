@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    theasta:Assets                              100 guld
-    theasta:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:theasta                          100 guld
+    theasta:Assets                              100 GULD
+    theasta:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:theasta                          100 GULD

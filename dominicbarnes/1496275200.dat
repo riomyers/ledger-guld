@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    dominicbarnes:Assets                              100 guld
-    dominicbarnes:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:dominicbarnes                          100 guld
+    dominicbarnes:Assets                              100 GULD
+    dominicbarnes:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:dominicbarnes                          100 GULD

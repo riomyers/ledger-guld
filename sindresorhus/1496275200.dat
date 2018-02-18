@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    sindresorhus:Assets                              100 guld
-    sindresorhus:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:sindresorhus                          100 guld
+    sindresorhus:Assets                              100 GULD
+    sindresorhus:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:sindresorhus                          100 GULD

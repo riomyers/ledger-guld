@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    vijaywarrier:Assets                              1000 guld
-    vijaywarrier:Income:guld                        -1000 guld
-    guld:Liabilities                         -1000 guld
-    guld:Equity:vijaywarrier                          1000 guld
+    vijaywarrier:Assets                              1000 GULD
+    vijaywarrier:Income:guld                        -1000 GULD
+    guld:Liabilities                         -1000 GULD
+    guld:Equity:vijaywarrier                          1000 GULD

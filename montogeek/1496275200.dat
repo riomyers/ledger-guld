@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    montogeek:Assets                              100 guld
-    montogeek:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:montogeek                          100 guld
+    montogeek:Assets                              100 GULD
+    montogeek:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:montogeek                          100 GULD

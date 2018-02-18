@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    petrbela:Assets                              100 guld
-    petrbela:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:petrbela                          100 guld
+    petrbela:Assets                              100 GULD
+    petrbela:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:petrbela                          100 GULD

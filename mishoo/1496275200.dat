@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    mishoo:Assets                              100 guld
-    mishoo:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:mishoo                          100 guld
+    mishoo:Assets                              100 GULD
+    mishoo:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:mishoo                          100 GULD

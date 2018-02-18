@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    levindu:Assets                              100 guld
-    levindu:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:levindu                          100 guld
+    levindu:Assets                              100 GULD
+    levindu:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:levindu                          100 GULD

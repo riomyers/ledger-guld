@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    kunzimariano:Assets                              100 guld
-    kunzimariano:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:kunzimariano                          100 guld
+    kunzimariano:Assets                              100 GULD
+    kunzimariano:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:kunzimariano                          100 GULD

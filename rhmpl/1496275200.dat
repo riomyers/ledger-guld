@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    rhmpl:Assets                              1000 guld
-    rhmpl:Income:guld                        -1000 guld
-    guld:Liabilities                         -1000 guld
-    guld:Equity:rhmpl                          1000 guld
+    rhmpl:Assets                              1000 GULD
+    rhmpl:Income:guld                        -1000 GULD
+    guld:Liabilities                         -1000 GULD
+    guld:Equity:rhmpl                          1000 GULD

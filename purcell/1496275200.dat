@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    purcell:Assets                              400 guld
-    purcell:Income:guld                        -400 guld
-    guld:Liabilities                         -400 guld
-    guld:Equity:purcell                          400 guld
+    purcell:Assets                              400 GULD
+    purcell:Income:guld                        -400 GULD
+    guld:Liabilities                         -400 GULD
+    guld:Equity:purcell                          400 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    cjc:Assets                              100 guld
-    cjc:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:cjc                          100 guld
+    cjc:Assets                              100 GULD
+    cjc:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:cjc                          100 GULD

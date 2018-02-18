@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    andyparkins:Assets                              100 guld
-    andyparkins:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:andyparkins                          100 guld
+    andyparkins:Assets                              100 GULD
+    andyparkins:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:andyparkins                          100 GULD

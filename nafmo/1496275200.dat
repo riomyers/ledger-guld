@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    nafmo:Assets                              100 guld
-    nafmo:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:nafmo                          100 guld
+    nafmo:Assets                              100 GULD
+    nafmo:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:nafmo                          100 GULD

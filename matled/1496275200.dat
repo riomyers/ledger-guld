@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    matled:Assets                              100 guld
-    matled:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:matled                          100 guld
+    matled:Assets                              100 GULD
+    matled:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:matled                          100 GULD

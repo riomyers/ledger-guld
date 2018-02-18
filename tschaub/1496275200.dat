@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    tschaub:Assets                              100 guld
-    tschaub:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:tschaub                          100 guld
+    tschaub:Assets                              100 GULD
+    tschaub:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:tschaub                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    schnittstabil:Assets                              100 guld
-    schnittstabil:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:schnittstabil                          100 guld
+    schnittstabil:Assets                              100 GULD
+    schnittstabil:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:schnittstabil                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    yoshuawuyts:Assets                              100 guld
-    yoshuawuyts:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:yoshuawuyts                          100 guld
+    yoshuawuyts:Assets                              100 GULD
+    yoshuawuyts:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:yoshuawuyts                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    adomokos:Assets                              100 guld
-    adomokos:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:adomokos                          100 guld
+    adomokos:Assets                              100 GULD
+    adomokos:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:adomokos                          100 GULD

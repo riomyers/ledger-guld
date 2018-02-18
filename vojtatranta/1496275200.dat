@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    vojtatranta:Assets                              100 guld
-    vojtatranta:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:vojtatranta                          100 guld
+    vojtatranta:Assets                              100 GULD
+    vojtatranta:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:vojtatranta                          100 GULD

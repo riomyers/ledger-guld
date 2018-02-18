@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    vadimdemedes:Assets                              100 guld
-    vadimdemedes:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:vadimdemedes                          100 guld
+    vadimdemedes:Assets                              100 GULD
+    vadimdemedes:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:vadimdemedes                          100 GULD

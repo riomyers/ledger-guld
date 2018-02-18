@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    coder13:Assets                              100 guld
-    coder13:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:coder13                          100 guld
+    coder13:Assets                              100 GULD
+    coder13:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:coder13                          100 GULD

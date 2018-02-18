@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    azizhk:Assets                              100 guld
-    azizhk:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:azizhk                          100 guld
+    azizhk:Assets                              100 GULD
+    azizhk:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:azizhk                          100 GULD

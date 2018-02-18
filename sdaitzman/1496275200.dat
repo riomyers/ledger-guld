@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    sdaitzman:Assets                              100 guld
-    sdaitzman:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:sdaitzman                          100 guld
+    sdaitzman:Assets                              100 GULD
+    sdaitzman:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:sdaitzman                          100 GULD

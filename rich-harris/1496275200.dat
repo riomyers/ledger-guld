@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    rich-harris:Assets                              100 guld
-    rich-harris:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:rich-harris                          100 guld
+    rich-harris:Assets                              100 GULD
+    rich-harris:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:rich-harris                          100 GULD

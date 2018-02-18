@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    ingorichter:Assets                              100 guld
-    ingorichter:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:ingorichter                          100 guld
+    ingorichter:Assets                              100 GULD
+    ingorichter:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:ingorichter                          100 GULD

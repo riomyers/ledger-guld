@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    drafnel:Assets                              100 guld
-    drafnel:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:drafnel                          100 guld
+    drafnel:Assets                              100 GULD
+    drafnel:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:drafnel                          100 GULD

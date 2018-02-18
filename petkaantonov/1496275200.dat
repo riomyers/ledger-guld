@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    petkaantonov:Assets                              100 guld
-    petkaantonov:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:petkaantonov                          100 guld
+    petkaantonov:Assets                              100 GULD
+    petkaantonov:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:petkaantonov                          100 GULD

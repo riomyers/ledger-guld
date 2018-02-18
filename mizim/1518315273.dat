@@ -1,14 +1,14 @@
 2018/02/10 * individual registration
-    fulloflife:Assets   -1 guld
-    fulloflife:Expenses:guld:register   1 guld
-    guld:Liabilities   1 guld
-    guld:Income:register:individual:fulloflife   -1 guld
+    fulloflife:Assets   -1 GULD
+    fulloflife:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:fulloflife   -1 GULD
 
 2018/02/10 * transfer
-    mizim:Assets   -30 guld
-    mizim:Expenses   30 guld
-    fulloflife:Assets   30 guld
-    fulloflife:Income   -30 guld
+    mizim:Assets   -30 GULD
+    mizim:Expenses   30 GULD
+    fulloflife:Assets   30 GULD
+    fulloflife:Income   -30 GULD
     fulloflife:Expenses    $1500
     mizim:Assets:Receivable    -$1500
 

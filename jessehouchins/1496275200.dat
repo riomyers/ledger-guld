@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jessehouchins:Assets                              100 guld
-    jessehouchins:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jessehouchins                          100 guld
+    jessehouchins:Assets                              100 GULD
+    jessehouchins:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jessehouchins                          100 GULD

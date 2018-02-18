@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    ryan-allen:Assets                              100 guld
-    ryan-allen:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:ryan-allen                          100 guld
+    ryan-allen:Assets                              100 GULD
+    ryan-allen:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:ryan-allen                          100 GULD

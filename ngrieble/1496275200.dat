@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    ngrieble:Assets                              100 guld
-    ngrieble:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:ngrieble                          100 guld
+    ngrieble:Assets                              100 GULD
+    ngrieble:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:ngrieble                          100 GULD

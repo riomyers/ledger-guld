@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    dskaggs:Assets                              100 guld
-    dskaggs:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:dskaggs                          100 guld
+    dskaggs:Assets                              100 GULD
+    dskaggs:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:dskaggs                          100 GULD

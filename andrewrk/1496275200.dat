@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    andrewrk:Assets                              100 guld
-    andrewrk:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:andrewrk                          100 guld
+    andrewrk:Assets                              100 GULD
+    andrewrk:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:andrewrk                          100 GULD

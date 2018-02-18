@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    rprieto:Assets                              100 guld
-    rprieto:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:rprieto                          100 guld
+    rprieto:Assets                              100 GULD
+    rprieto:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:rprieto                          100 GULD

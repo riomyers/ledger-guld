@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    chadkillingsworth:Assets                              100 guld
-    chadkillingsworth:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:chadkillingsworth                          100 guld
+    chadkillingsworth:Assets                              100 GULD
+    chadkillingsworth:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:chadkillingsworth                          100 GULD

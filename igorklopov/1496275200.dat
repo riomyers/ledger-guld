@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    igorklopov:Assets                              100 guld
-    igorklopov:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:igorklopov                          100 guld
+    igorklopov:Assets                              100 GULD
+    igorklopov:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:igorklopov                          100 GULD

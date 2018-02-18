@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    adros:Assets                              100 guld
-    adros:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:adros                          100 guld
+    adros:Assets                              100 GULD
+    adros:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:adros                          100 GULD

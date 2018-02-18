@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    cvrebert:Assets                              100 guld
-    cvrebert:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:cvrebert                          100 guld
+    cvrebert:Assets                              100 GULD
+    cvrebert:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:cvrebert                          100 GULD

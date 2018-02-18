@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    basteln3rk:Assets                              100 guld
-    basteln3rk:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:basteln3rk                          100 guld
+    basteln3rk:Assets                              100 GULD
+    basteln3rk:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:basteln3rk                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    timaschew:Assets                              100 guld
-    timaschew:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:timaschew                          100 guld
+    timaschew:Assets                              100 GULD
+    timaschew:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:timaschew                          100 GULD

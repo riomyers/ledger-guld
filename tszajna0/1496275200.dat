@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    tszajna0:Assets                              100 guld
-    tszajna0:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:tszajna0                          100 guld
+    tszajna0:Assets                              100 GULD
+    tszajna0:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:tszajna0                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    dominykas:Assets                              100 guld
-    dominykas:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:dominykas                          100 guld
+    dominykas:Assets                              100 GULD
+    dominykas:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:dominykas                          100 GULD

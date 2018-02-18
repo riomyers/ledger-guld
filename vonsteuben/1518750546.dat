@@ -1,6 +1,6 @@
 2018/02/01 * guldOS Tester Seminar 2 completion
-    vonsteuben:Assets                              10 guld
-    vonsteuben:Income:guld                        -10 guld
-    guld:Liabilities                                 -10 guld
-    guld:Equity:vonsteuben                         10 guld
+    vonsteuben:Assets                              10 GULD
+    vonsteuben:Income:guld                        -10 GULD
+    guld:Liabilities                                 -10 GULD
+    guld:Equity:vonsteuben                         10 GULD
 

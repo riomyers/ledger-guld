@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    cironunes:Assets                              100 guld
-    cironunes:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:cironunes                          100 guld
+    cironunes:Assets                              100 GULD
+    cironunes:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:cironunes                          100 GULD

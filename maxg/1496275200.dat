@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    maxg:Assets                              100 guld
-    maxg:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:maxg                          100 guld
+    maxg:Assets                              100 GULD
+    maxg:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:maxg                          100 GULD

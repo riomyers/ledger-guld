@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    strml:Assets                              100 guld
-    strml:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:strml                          100 guld
+    strml:Assets                              100 GULD
+    strml:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:strml                          100 GULD

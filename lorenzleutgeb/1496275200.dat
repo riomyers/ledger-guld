@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    lorenzleutgeb:Assets                              100 guld
-    lorenzleutgeb:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:lorenzleutgeb                          100 guld
+    lorenzleutgeb:Assets                              100 GULD
+    lorenzleutgeb:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:lorenzleutgeb                          100 GULD

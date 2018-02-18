@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    kanru:Assets                              100 guld
-    kanru:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:kanru                          100 guld
+    kanru:Assets                              100 GULD
+    kanru:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:kanru                          100 GULD

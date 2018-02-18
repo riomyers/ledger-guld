@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    mysticatea:Assets                              100 guld
-    mysticatea:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:mysticatea                          100 guld
+    mysticatea:Assets                              100 GULD
+    mysticatea:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:mysticatea                          100 GULD

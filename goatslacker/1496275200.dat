@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    goatslacker:Assets                              100 guld
-    goatslacker:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:goatslacker                          100 guld
+    goatslacker:Assets                              100 GULD
+    goatslacker:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:goatslacker                          100 GULD

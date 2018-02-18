@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    asoul:Assets                              100 guld
-    asoul:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:asoul                          100 guld
+    asoul:Assets                              100 GULD
+    asoul:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:asoul                          100 GULD

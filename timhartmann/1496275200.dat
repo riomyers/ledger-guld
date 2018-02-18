@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    timhartmann:Assets                              100 guld
-    timhartmann:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:timhartmann                          100 guld
+    timhartmann:Assets                              100 GULD
+    timhartmann:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:timhartmann                          100 GULD

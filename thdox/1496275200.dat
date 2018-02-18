@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    thdox:Assets                              800 guld
-    thdox:Income:guld                        -800 guld
-    guld:Liabilities                         -800 guld
-    guld:Equity:thdox                          800 guld
+    thdox:Assets                              800 GULD
+    thdox:Income:guld                        -800 GULD
+    guld:Liabilities                         -800 GULD
+    guld:Equity:thdox                          800 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    ioncreature:Assets                              100 guld
-    ioncreature:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:ioncreature                          100 guld
+    ioncreature:Assets                              100 GULD
+    ioncreature:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:ioncreature                          100 GULD

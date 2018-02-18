@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    vlaniado:Assets                              5000 guld
-    vlaniado:Income:guld                        -5000 guld
-    guld:Liabilities                         -5000 guld
-    guld:Equity:vlaniado                          5000 guld
+    vlaniado:Assets                              5000 GULD
+    vlaniado:Income:guld                        -5000 GULD
+    guld:Liabilities                         -5000 GULD
+    guld:Equity:vlaniado                          5000 GULD

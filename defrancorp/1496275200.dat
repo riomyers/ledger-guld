@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    defrancorp:Assets                              1000 guld
-    defrancorp:Income:guld                        -1000 guld
-    guld:Liabilities                         -1000 guld
-    guld:Equity:defrancorp                          1000 guld
+    defrancorp:Assets                              1000 GULD
+    defrancorp:Income:guld                        -1000 GULD
+    guld:Liabilities                         -1000 GULD
+    guld:Equity:defrancorp                          1000 GULD

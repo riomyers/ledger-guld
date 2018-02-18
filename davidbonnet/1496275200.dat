@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    davidbonnet:Assets                              100 guld
-    davidbonnet:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:davidbonnet                          100 guld
+    davidbonnet:Assets                              100 GULD
+    davidbonnet:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:davidbonnet                          100 GULD

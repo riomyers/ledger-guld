@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    doowb:Assets                              100 guld
-    doowb:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:doowb                          100 guld
+    doowb:Assets                              100 GULD
+    doowb:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:doowb                          100 GULD

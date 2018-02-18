@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    ejiang:Assets                              100 guld
-    ejiang:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:ejiang                          100 guld
+    ejiang:Assets                              100 GULD
+    ejiang:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:ejiang                          100 GULD

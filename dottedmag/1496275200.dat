@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    dottedmag:Assets                              100 guld
-    dottedmag:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:dottedmag                          100 guld
+    dottedmag:Assets                              100 GULD
+    dottedmag:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:dottedmag                          100 GULD

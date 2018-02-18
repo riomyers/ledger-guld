@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jeffbski:Assets                              100 guld
-    jeffbski:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jeffbski                          100 guld
+    jeffbski:Assets                              100 GULD
+    jeffbski:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jeffbski                          100 GULD

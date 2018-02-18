@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    kusor:Assets                              100 guld
-    kusor:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:kusor                          100 guld
+    kusor:Assets                              100 GULD
+    kusor:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:kusor                          100 GULD

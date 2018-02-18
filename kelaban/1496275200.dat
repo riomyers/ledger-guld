@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    kelaban:Assets                              100 guld
-    kelaban:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:kelaban                          100 guld
+    kelaban:Assets                              100 GULD
+    kelaban:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:kelaban                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    keis:Assets                              100 guld
-    keis:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:keis                          100 guld
+    keis:Assets                              100 GULD
+    keis:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:keis                          100 GULD

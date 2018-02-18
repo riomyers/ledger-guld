@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    rctay:Assets                              100 guld
-    rctay:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:rctay                          100 guld
+    rctay:Assets                              100 GULD
+    rctay:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:rctay                          100 GULD

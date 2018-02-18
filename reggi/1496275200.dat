@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    reggi:Assets                              100 guld
-    reggi:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:reggi                          100 guld
+    reggi:Assets                              100 GULD
+    reggi:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:reggi                          100 GULD

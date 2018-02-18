@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    burakcakirel:Assets                              100 guld
-    burakcakirel:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:burakcakirel                          100 guld
+    burakcakirel:Assets                              100 GULD
+    burakcakirel:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:burakcakirel                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    unclechu:Assets                              100 guld
-    unclechu:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:unclechu                          100 guld
+    unclechu:Assets                              100 GULD
+    unclechu:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:unclechu                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    yields:Assets                              100 guld
-    yields:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:yields                          100 guld
+    yields:Assets                              100 GULD
+    yields:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:yields                          100 GULD

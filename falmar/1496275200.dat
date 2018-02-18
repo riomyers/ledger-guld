@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    falmar:Assets                              100 guld
-    falmar:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:falmar                          100 guld
+    falmar:Assets                              100 GULD
+    falmar:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:falmar                          100 GULD

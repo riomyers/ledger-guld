@@ -1,6 +1,6 @@
 2018/02/04 * guld.chat refund
     ; timestamp: 1517714017
-    gfmileo:Assets                              -10000 guld
-    gfmileo:Income:guld                         10000 guld
-    guld:Liabilities                           10000 guld
-    guld:Equity:gfmileo                         -10000 guld
+    gfmileo:Assets                              -10000 GULD
+    gfmileo:Income:guld                         10000 GULD
+    guld:Liabilities                           10000 GULD
+    guld:Equity:gfmileo                         -10000 GULD

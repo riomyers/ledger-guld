@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    konsumer:Assets                              100 guld
-    konsumer:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:konsumer                          100 guld
+    konsumer:Assets                              100 GULD
+    konsumer:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:konsumer                          100 GULD

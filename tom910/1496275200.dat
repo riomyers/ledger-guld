@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    tom910:Assets                              100 guld
-    tom910:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:tom910                          100 guld
+    tom910:Assets                              100 GULD
+    tom910:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:tom910                          100 GULD

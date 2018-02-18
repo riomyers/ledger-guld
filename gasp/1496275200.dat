@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    gasp:Assets                              100 guld
-    gasp:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:gasp                          100 guld
+    gasp:Assets                              100 GULD
+    gasp:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:gasp                          100 GULD

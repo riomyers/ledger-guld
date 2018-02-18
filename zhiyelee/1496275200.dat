@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    zhiyelee:Assets                              100 guld
-    zhiyelee:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:zhiyelee                          100 guld
+    zhiyelee:Assets                              100 GULD
+    zhiyelee:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:zhiyelee                          100 GULD

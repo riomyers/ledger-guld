@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    maxmechanic:Assets                              100 guld
-    maxmechanic:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:maxmechanic                          100 guld
+    maxmechanic:Assets                              100 GULD
+    maxmechanic:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:maxmechanic                          100 GULD

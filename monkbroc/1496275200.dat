@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    monkbroc:Assets                              100 guld
-    monkbroc:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:monkbroc                          100 guld
+    monkbroc:Assets                              100 GULD
+    monkbroc:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:monkbroc                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    mnoack:Assets                              100 guld
-    mnoack:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:mnoack                          100 guld
+    mnoack:Assets                              100 GULD
+    mnoack:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:mnoack                          100 GULD

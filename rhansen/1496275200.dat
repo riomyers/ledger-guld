@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    rhansen:Assets                              100 guld
-    rhansen:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:rhansen                          100 guld
+    rhansen:Assets                              100 GULD
+    rhansen:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:rhansen                          100 GULD

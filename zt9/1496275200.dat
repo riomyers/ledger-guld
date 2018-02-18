@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    zt9:Assets                              100 guld
-    zt9:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:zt9                          100 guld
+    zt9:Assets                              100 GULD
+    zt9:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:zt9                          100 GULD

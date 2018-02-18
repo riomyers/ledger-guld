@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    fpirsch:Assets                              100 guld
-    fpirsch:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:fpirsch                          100 guld
+    fpirsch:Assets                              100 GULD
+    fpirsch:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:fpirsch                          100 GULD

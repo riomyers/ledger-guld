@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    elberet:Assets                              100 guld
-    elberet:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:elberet                          100 guld
+    elberet:Assets                              100 GULD
+    elberet:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:elberet                          100 GULD

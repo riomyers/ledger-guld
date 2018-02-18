@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jonseymour:Assets                              100 guld
-    jonseymour:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jonseymour                          100 guld
+    jonseymour:Assets                              100 GULD
+    jonseymour:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jonseymour                          100 GULD

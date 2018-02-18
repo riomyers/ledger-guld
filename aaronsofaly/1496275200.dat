@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    aaronsofaly:Assets                              100 guld
-    aaronsofaly:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:aaronsofaly                          100 guld
+    aaronsofaly:Assets                              100 GULD
+    aaronsofaly:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:aaronsofaly                          100 GULD

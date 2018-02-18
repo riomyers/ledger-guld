@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    caiotoon:Assets                              100 guld
-    caiotoon:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:caiotoon                          100 guld
+    caiotoon:Assets                              100 GULD
+    caiotoon:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:caiotoon                          100 GULD

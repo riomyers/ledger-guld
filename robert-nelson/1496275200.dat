@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    robert-nelson:Assets                              100 guld
-    robert-nelson:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:robert-nelson                          100 guld
+    robert-nelson:Assets                              100 GULD
+    robert-nelson:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:robert-nelson                          100 GULD

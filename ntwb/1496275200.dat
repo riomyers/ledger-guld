@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    ntwb:Assets                              100 guld
-    ntwb:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:ntwb                          100 guld
+    ntwb:Assets                              100 GULD
+    ntwb:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:ntwb                          100 GULD

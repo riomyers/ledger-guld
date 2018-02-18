@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    yehezkielbs:Assets                              100 guld
-    yehezkielbs:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:yehezkielbs                          100 guld
+    yehezkielbs:Assets                              100 GULD
+    yehezkielbs:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:yehezkielbs                          100 GULD

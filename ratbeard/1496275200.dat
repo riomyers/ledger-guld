@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    ratbeard:Assets                              100 guld
-    ratbeard:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:ratbeard                          100 guld
+    ratbeard:Assets                              100 GULD
+    ratbeard:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:ratbeard                          100 GULD

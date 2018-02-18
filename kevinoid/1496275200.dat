@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    kevinoid:Assets                              100 guld
-    kevinoid:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:kevinoid                          100 guld
+    kevinoid:Assets                              100 GULD
+    kevinoid:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:kevinoid                          100 GULD

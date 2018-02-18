@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    cormier:Assets                              1000 guld
-    cormier:Income:guld                        -1000 guld
-    guld:Liabilities                         -1000 guld
-    guld:Equity:cormier                          1000 guld
+    cormier:Assets                              1000 GULD
+    cormier:Income:guld                        -1000 GULD
+    guld:Liabilities                         -1000 GULD
+    guld:Equity:cormier                          1000 GULD

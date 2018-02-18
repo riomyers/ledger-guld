@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jasperkrijgsman:Assets                              100 guld
-    jasperkrijgsman:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jasperkrijgsman                          100 guld
+    jasperkrijgsman:Assets                              100 GULD
+    jasperkrijgsman:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jasperkrijgsman                          100 GULD

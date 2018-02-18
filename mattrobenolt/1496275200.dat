@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    mattrobenolt:Assets                              100 guld
-    mattrobenolt:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:mattrobenolt                          100 guld
+    mattrobenolt:Assets                              100 GULD
+    mattrobenolt:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:mattrobenolt                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    existentialism:Assets                              100 guld
-    existentialism:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:existentialism                          100 guld
+    existentialism:Assets                              100 GULD
+    existentialism:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:existentialism                          100 GULD

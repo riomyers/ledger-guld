@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    thethomaseffect:Assets                              100 guld
-    thethomaseffect:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:thethomaseffect                          100 guld
+    thethomaseffect:Assets                              100 GULD
+    thethomaseffect:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:thethomaseffect                          100 GULD

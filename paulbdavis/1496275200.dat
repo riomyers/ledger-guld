@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    paulbdavis:Assets                              100 guld
-    paulbdavis:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:paulbdavis                          100 guld
+    paulbdavis:Assets                              100 GULD
+    paulbdavis:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:paulbdavis                          100 GULD

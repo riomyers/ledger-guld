@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    aendrew:Assets                              100 guld
-    aendrew:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:aendrew                          100 guld
+    aendrew:Assets                              100 GULD
+    aendrew:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:aendrew                          100 GULD

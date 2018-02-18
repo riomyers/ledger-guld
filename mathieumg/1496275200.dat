@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    mathieumg:Assets                              100 guld
-    mathieumg:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:mathieumg                          100 guld
+    mathieumg:Assets                              100 GULD
+    mathieumg:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:mathieumg                          100 GULD

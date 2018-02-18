@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jonschlinkert:Assets                              100 guld
-    jonschlinkert:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jonschlinkert                          100 guld
+    jonschlinkert:Assets                              100 GULD
+    jonschlinkert:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jonschlinkert                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    steveukx:Assets                              100 guld
-    steveukx:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:steveukx                          100 guld
+    steveukx:Assets                              100 GULD
+    steveukx:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:steveukx                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    zertosh:Assets                              100 guld
-    zertosh:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:zertosh                          100 guld
+    zertosh:Assets                              100 GULD
+    zertosh:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:zertosh                          100 GULD

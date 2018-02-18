@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    yosefd:Assets                              100 guld
-    yosefd:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:yosefd                          100 guld
+    yosefd:Assets                              100 GULD
+    yosefd:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:yosefd                          100 GULD

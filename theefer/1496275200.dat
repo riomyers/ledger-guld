@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    theefer:Assets                              100 guld
-    theefer:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:theefer                          100 guld
+    theefer:Assets                              100 GULD
+    theefer:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:theefer                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    mmikulicic:Assets                              100 guld
-    mmikulicic:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:mmikulicic                          100 guld
+    mmikulicic:Assets                              100 GULD
+    mmikulicic:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:mmikulicic                          100 GULD

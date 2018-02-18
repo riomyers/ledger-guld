@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    steve-gray:Assets                              100 guld
-    steve-gray:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:steve-gray                          100 guld
+    steve-gray:Assets                              100 GULD
+    steve-gray:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:steve-gray                          100 GULD

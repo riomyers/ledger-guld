@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    queckezz:Assets                              100 guld
-    queckezz:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:queckezz                          100 guld
+    queckezz:Assets                              100 GULD
+    queckezz:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:queckezz                          100 GULD

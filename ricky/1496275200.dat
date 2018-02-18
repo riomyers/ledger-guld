@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    ricky:Assets                              100 guld
-    ricky:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:ricky                          100 guld
+    ricky:Assets                              100 GULD
+    ricky:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:ricky                          100 GULD

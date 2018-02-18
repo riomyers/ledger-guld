@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    zzen:Assets                              100 guld
-    zzen:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:zzen                          100 guld
+    zzen:Assets                              100 GULD
+    zzen:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:zzen                          100 GULD

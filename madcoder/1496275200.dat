@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    madcoder:Assets                              100 guld
-    madcoder:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:madcoder                          100 guld
+    madcoder:Assets                              100 GULD
+    madcoder:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:madcoder                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    artemv:Assets                              100 guld
-    artemv:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:artemv                          100 guld
+    artemv:Assets                              100 GULD
+    artemv:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:artemv                          100 GULD

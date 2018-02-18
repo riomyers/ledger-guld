@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    markelog:Assets                              100 guld
-    markelog:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:markelog                          100 guld
+    markelog:Assets                              100 GULD
+    markelog:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:markelog                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    dr-skot:Assets                              100 guld
-    dr-skot:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:dr-skot                          100 guld
+    dr-skot:Assets                              100 GULD
+    dr-skot:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:dr-skot                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    papandreou:Assets                              100 guld
-    papandreou:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:papandreou                          100 guld
+    papandreou:Assets                              100 GULD
+    papandreou:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:papandreou                          100 GULD

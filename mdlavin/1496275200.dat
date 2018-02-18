@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    mdlavin:Assets                              100 guld
-    mdlavin:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:mdlavin                          100 guld
+    mdlavin:Assets                              100 GULD
+    mdlavin:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:mdlavin                          100 GULD

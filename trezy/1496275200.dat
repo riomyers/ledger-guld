@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    trezy:Assets                              100 guld
-    trezy:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:trezy                          100 guld
+    trezy:Assets                              100 GULD
+    trezy:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:trezy                          100 GULD

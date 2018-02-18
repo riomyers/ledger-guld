@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    forresst:Assets                              100 guld
-    forresst:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:forresst                          100 guld
+    forresst:Assets                              100 GULD
+    forresst:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:forresst                          100 GULD

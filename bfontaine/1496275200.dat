@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    bfontaine:Assets                              100 guld
-    bfontaine:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:bfontaine                          100 guld
+    bfontaine:Assets                              100 GULD
+    bfontaine:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:bfontaine                          100 GULD

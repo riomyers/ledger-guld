@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    bg451:Assets                              100 guld
-    bg451:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:bg451                          100 guld
+    bg451:Assets                              100 GULD
+    bg451:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:bg451                          100 GULD

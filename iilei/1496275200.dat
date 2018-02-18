@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    iilei:Assets                              100 guld
-    iilei:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:iilei                          100 guld
+    iilei:Assets                              100 GULD
+    iilei:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:iilei                          100 GULD

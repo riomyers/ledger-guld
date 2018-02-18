@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    danwellman:Assets                              100 guld
-    danwellman:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:danwellman                          100 guld
+    danwellman:Assets                              100 GULD
+    danwellman:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:danwellman                          100 GULD

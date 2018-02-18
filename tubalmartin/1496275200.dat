@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    tubalmartin:Assets                              100 guld
-    tubalmartin:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:tubalmartin                          100 guld
+    tubalmartin:Assets                              100 GULD
+    tubalmartin:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:tubalmartin                          100 GULD

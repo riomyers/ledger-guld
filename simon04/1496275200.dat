@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    simon04:Assets                              100 guld
-    simon04:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:simon04                          100 guld
+    simon04:Assets                              100 GULD
+    simon04:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:simon04                          100 GULD

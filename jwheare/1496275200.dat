@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jwheare:Assets                              100 guld
-    jwheare:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jwheare                          100 guld
+    jwheare:Assets                              100 GULD
+    jwheare:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jwheare                          100 GULD

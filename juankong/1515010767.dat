@@ -1,5 +1,5 @@
 2018/01/03 * guld work grant (2 months)
-    juankong:Assets                              200 guld
-    juankong:Income:guld                        -200 guld
-    guld:Liabilities                           -200 guld
-    guld:Equity:juankong                         200 guld
+    juankong:Assets                              200 GULD
+    juankong:Income:guld                        -200 GULD
+    guld:Liabilities                           -200 GULD
+    guld:Equity:juankong                         200 GULD

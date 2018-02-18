@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    mrzepinski:Assets                              100 guld
-    mrzepinski:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:mrzepinski                          100 guld
+    mrzepinski:Assets                              100 GULD
+    mrzepinski:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:mrzepinski                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    wvanderdeijl:Assets                              100 guld
-    wvanderdeijl:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:wvanderdeijl                          100 guld
+    wvanderdeijl:Assets                              100 GULD
+    wvanderdeijl:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:wvanderdeijl                          100 GULD

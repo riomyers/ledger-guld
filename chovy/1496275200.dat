@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    chovy:Assets                              100 guld
-    chovy:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:chovy                          100 guld
+    chovy:Assets                              100 GULD
+    chovy:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:chovy                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    shootaroo:Assets                              100 guld
-    shootaroo:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:shootaroo                          100 guld
+    shootaroo:Assets                              100 GULD
+    shootaroo:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:shootaroo                          100 GULD

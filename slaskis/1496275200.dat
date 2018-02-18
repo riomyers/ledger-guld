@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    slaskis:Assets                              100 guld
-    slaskis:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:slaskis                          100 guld
+    slaskis:Assets                              100 GULD
+    slaskis:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:slaskis                          100 GULD

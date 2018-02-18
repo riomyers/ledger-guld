@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    phillipj:Assets                              100 guld
-    phillipj:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:phillipj                          100 guld
+    phillipj:Assets                              100 GULD
+    phillipj:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:phillipj                          100 GULD

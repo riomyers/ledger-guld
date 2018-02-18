@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jpignata:Assets                              100 guld
-    jpignata:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jpignata                          100 guld
+    jpignata:Assets                              100 GULD
+    jpignata:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jpignata                          100 GULD

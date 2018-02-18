@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    machty:Assets                              100 guld
-    machty:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:machty                          100 guld
+    machty:Assets                              100 GULD
+    machty:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:machty                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    ball4thegame:Assets                              1000 guld
-    ball4thegame:Income:guld                        -1000 guld
-    guld:Liabilities                         -1000 guld
-    guld:Equity:ball4thegame                          1000 guld
+    ball4thegame:Assets                              1000 GULD
+    ball4thegame:Income:guld                        -1000 GULD
+    guld:Liabilities                         -1000 GULD
+    guld:Equity:ball4thegame                          1000 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    ittennull:Assets                              100 guld
-    ittennull:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:ittennull                          100 guld
+    ittennull:Assets                              100 GULD
+    ittennull:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:ittennull                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    pvnr0082t:Assets                              100 guld
-    pvnr0082t:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:pvnr0082t                          100 guld
+    pvnr0082t:Assets                              100 GULD
+    pvnr0082t:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:pvnr0082t                          100 GULD

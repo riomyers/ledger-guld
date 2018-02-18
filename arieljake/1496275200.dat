@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    arieljake:Assets                              100 guld
-    arieljake:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:arieljake                          100 guld
+    arieljake:Assets                              100 GULD
+    arieljake:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:arieljake                          100 GULD

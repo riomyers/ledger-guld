@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    tybruffy:Assets                              100 guld
-    tybruffy:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:tybruffy                          100 guld
+    tybruffy:Assets                              100 GULD
+    tybruffy:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:tybruffy                          100 GULD

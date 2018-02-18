@@ -1,5 +1,5 @@
 2017/12/17 * guld name service contributions and advising
-    sirbitt:Assets                              5000 guld
-    sirbitt:Income:guld                        -5000 guld
-    guld:Liabilities                         -5000 guld
-    guld:Equity:sirbitt                          5000 guld
+    sirbitt:Assets                              5000 GULD
+    sirbitt:Income:guld                        -5000 GULD
+    guld:Liabilities                         -5000 GULD
+    guld:Equity:sirbitt                          5000 GULD

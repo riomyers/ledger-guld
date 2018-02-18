@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jeremyworboys:Assets                              100 guld
-    jeremyworboys:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jeremyworboys                          100 guld
+    jeremyworboys:Assets                              100 GULD
+    jeremyworboys:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jeremyworboys                          100 GULD

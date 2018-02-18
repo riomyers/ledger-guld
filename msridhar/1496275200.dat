@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    msridhar:Assets                              100 guld
-    msridhar:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:msridhar                          100 guld
+    msridhar:Assets                              100 GULD
+    msridhar:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:msridhar                          100 GULD

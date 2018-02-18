@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    vieiralucas:Assets                              100 guld
-    vieiralucas:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:vieiralucas                          100 guld
+    vieiralucas:Assets                              100 GULD
+    vieiralucas:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:vieiralucas                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    vojtajina:Assets                              100 guld
-    vojtajina:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:vojtajina                          100 guld
+    vojtajina:Assets                              100 GULD
+    vojtajina:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:vojtajina                          100 GULD

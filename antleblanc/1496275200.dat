@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    antleblanc:Assets                              100 guld
-    antleblanc:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:antleblanc                          100 guld
+    antleblanc:Assets                              100 GULD
+    antleblanc:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:antleblanc                          100 GULD

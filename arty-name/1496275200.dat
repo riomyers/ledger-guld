@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    arty-name:Assets                              100 guld
-    arty-name:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:arty-name                          100 guld
+    arty-name:Assets                              100 GULD
+    arty-name:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:arty-name                          100 GULD

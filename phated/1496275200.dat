@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    phated:Assets                              100 guld
-    phated:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:phated                          100 guld
+    phated:Assets                              100 GULD
+    phated:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:phated                          100 GULD

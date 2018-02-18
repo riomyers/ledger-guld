@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    jzaefferer:Assets                              100 guld
-    jzaefferer:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:jzaefferer                          100 guld
+    jzaefferer:Assets                              100 GULD
+    jzaefferer:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:jzaefferer                          100 GULD

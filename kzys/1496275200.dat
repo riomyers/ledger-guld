@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    kzys:Assets                              100 guld
-    kzys:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:kzys                          100 guld
+    kzys:Assets                              100 GULD
+    kzys:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:kzys                          100 GULD

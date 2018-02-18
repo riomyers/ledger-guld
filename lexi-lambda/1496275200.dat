@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    lexi-lambda:Assets                              100 guld
-    lexi-lambda:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:lexi-lambda                          100 guld
+    lexi-lambda:Assets                              100 GULD
+    lexi-lambda:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:lexi-lambda                          100 GULD

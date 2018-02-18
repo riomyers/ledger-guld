@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    kylepdavis:Assets                              100 guld
-    kylepdavis:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:kylepdavis                          100 guld
+    kylepdavis:Assets                              100 GULD
+    kylepdavis:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:kylepdavis                          100 GULD

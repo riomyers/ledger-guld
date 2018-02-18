@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    lukeed:Assets                              100 guld
-    lukeed:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:lukeed                          100 guld
+    lukeed:Assets                              100 GULD
+    lukeed:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:lukeed                          100 GULD

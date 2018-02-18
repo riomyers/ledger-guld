@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    thaigun:Assets                              100 guld
-    thaigun:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:thaigun                          100 guld
+    thaigun:Assets                              100 GULD
+    thaigun:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:thaigun                          100 GULD

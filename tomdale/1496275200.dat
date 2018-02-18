@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    tomdale:Assets                              100 guld
-    tomdale:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:tomdale                          100 guld
+    tomdale:Assets                              100 GULD
+    tomdale:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:tomdale                          100 GULD

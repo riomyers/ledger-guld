@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    ashleybrener:Assets                              100 guld
-    ashleybrener:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:ashleybrener                          100 guld
+    ashleybrener:Assets                              100 GULD
+    ashleybrener:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:ashleybrener                          100 GULD

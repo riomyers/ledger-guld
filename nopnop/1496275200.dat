@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    nopnop:Assets                              100 guld
-    nopnop:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:nopnop                          100 guld
+    nopnop:Assets                              100 GULD
+    nopnop:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:nopnop                          100 GULD

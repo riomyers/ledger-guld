@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    techwraith:Assets                              100 guld
-    techwraith:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:techwraith                          100 guld
+    techwraith:Assets                              100 GULD
+    techwraith:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:techwraith                          100 GULD

@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    streetstrider:Assets                              100 guld
-    streetstrider:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:streetstrider                          100 guld
+    streetstrider:Assets                              100 GULD
+    streetstrider:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:streetstrider                          100 GULD

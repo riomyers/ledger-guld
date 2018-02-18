@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    aymericbeaumet:Assets                              100 guld
-    aymericbeaumet:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:aymericbeaumet                          100 guld
+    aymericbeaumet:Assets                              100 GULD
+    aymericbeaumet:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:aymericbeaumet                          100 GULD

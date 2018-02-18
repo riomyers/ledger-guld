@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    akhoury:Assets                              100 guld
-    akhoury:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:akhoury                          100 guld
+    akhoury:Assets                              100 GULD
+    akhoury:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:akhoury                          100 GULD

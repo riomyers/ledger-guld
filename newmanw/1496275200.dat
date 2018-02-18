@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    newmanw:Assets                              100 guld
-    newmanw:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:newmanw                          100 guld
+    newmanw:Assets                              100 GULD
+    newmanw:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:newmanw                          100 GULD

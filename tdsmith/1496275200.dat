@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    tdsmith:Assets                              100 guld
-    tdsmith:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:tdsmith                          100 guld
+    tdsmith:Assets                              100 GULD
+    tdsmith:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:tdsmith                          100 GULD

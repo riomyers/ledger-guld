@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    kborchers:Assets                              100 guld
-    kborchers:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:kborchers                          100 guld
+    kborchers:Assets                              100 GULD
+    kborchers:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:kborchers                          100 GULD

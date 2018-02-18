@@ -1,5 +1,5 @@
 2016/06/01 * guld pre-founding contributions
-    maxmaximov:Assets                              100 guld
-    maxmaximov:Income:guld                        -100 guld
-    guld:Liabilities                         -100 guld
-    guld:Equity:maxmaximov                          100 guld
+    maxmaximov:Assets                              100 GULD
+    maxmaximov:Income:guld                        -100 GULD
+    guld:Liabilities                         -100 GULD
+    guld:Equity:maxmaximov                          100 GULD
