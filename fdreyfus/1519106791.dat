@@ -1,0 +1,6 @@
+2018/02/20 * transfer
+    ; timestamp: 1519106791
+    fdreyfus:Assets   -1 GULD
+    fdreyfus:Expenses   1 GULD
+    veronica:Assets   1 GULD
+    veronica:Income   -1 GULD

@@ -1,0 +1,6 @@
+2018/02/20 * grant for work done
+    ; timestamp: 1519105526
+    fdreyfus:Assets   1 GULD
+    fdreyfus:Income   -1 GULD
+    guld:Liabilities   -1 GULD
+    guld:Equity:fdreyfus   1 GULD

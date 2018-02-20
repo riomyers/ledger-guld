@@ -1,0 +1,6 @@
+2018/02/20 * register individual
+    ; timestamp: 1519107021
+    veronica:Assets   -1 GULD
+    veronica:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:veronica   -1 GULD
