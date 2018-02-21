@@ -1,0 +1,7 @@
+2018/02/20 * transfer
+    ; timestamp: 1519127594
+    isysd:Assets   -1 GULD
+    isysd:Expenses   1 GULD
+    imiller:Assets   1 GULD
+    imiller:Income   -1 GULD
+

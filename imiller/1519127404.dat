@@ -1,0 +1,7 @@
+2018/02/20 * register individual
+    ; timestamp: 1519127404
+    imiller:Assets   -1 GULD
+    imiller:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:imiller   -1 GULD
+

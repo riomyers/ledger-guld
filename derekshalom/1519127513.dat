@@ -1,0 +1,7 @@
+2018/02/20 * register individual
+    ; timestamp: 1519127513
+    derekshalom:Assets   -1 GULD
+    derekshalom:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:derekshalom   -1 GULD
+

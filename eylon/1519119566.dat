@@ -1,0 +1,6 @@
+2018/02/20 * register individual
+    ; timestamp: 1519119566
+    eylon:Assets   -1 GULD
+    eylon:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:eylon   -1 GULD

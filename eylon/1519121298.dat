@@ -1,0 +1,7 @@
+2018/02/20 * grant for work done
+    ; timestamp: 1519121298
+    eylon:Assets   13 GULD
+    eylon:Income   -13 GULD
+    guld:Liabilities   -13 GULD
+    guld:Equity:eylon   13 GULD
+
