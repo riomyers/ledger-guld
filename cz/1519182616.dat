@@ -1,0 +1,6 @@
+2018/02/20 * register individual
+    ; timestamp: 1519182616
+    cz:Assets   -1 GULD
+    cz:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:cz   -1 GULD
