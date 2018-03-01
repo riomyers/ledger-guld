@@ -1,0 +1,6 @@
+2018/02/26 * register individual
+    ; timestamp: 1519678373
+    et4te:Assets   -1 GULD
+    et4te:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:et4te   -1 GULD

@@ -1,0 +1,6 @@
+2018/03/01 * register individual
+    ; timestamp: 1519949874
+    rsfogel:Assets   -1 GULD
+    rsfogel:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:rsfogel   -1 GULD

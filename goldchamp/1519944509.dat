@@ -1,0 +1,6 @@
+2018/03/01 * transfer
+    ; timestamp: 1519944509
+    goldchamp:Assets   -150 GULD
+    goldchamp:Expenses   150 GULD
+    isysd:Assets   150 GULD
+    isysd:Income   -150 GULD

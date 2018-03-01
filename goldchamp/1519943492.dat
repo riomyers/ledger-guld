@@ -1,0 +1,6 @@
+2018/03/01 * register individual
+    ; timestamp: 1519943492
+    goldchamp:Assets   -1 GULD
+    goldchamp:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:goldchamp   -1 GULD
