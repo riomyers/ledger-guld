@@ -1,0 +1,7 @@
+2018/02/28 * register individual
+    ; timestamp: 1519876064
+    okojumo:Assets   -1 GULD
+    okojumo:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:okojumo   -1 GULD
+

@@ -1,0 +1,7 @@
+2018/02/21 * register group
+    ; timestamp: 1519256764
+    hodlmybeer:Assets   -250 GULD
+    hodlmybeer:Expenses:guld:register   250 GULD
+    guld:Liabilities   250 GULD
+    guld:Income:register:group:hodlmybeer   -250 GULD
+

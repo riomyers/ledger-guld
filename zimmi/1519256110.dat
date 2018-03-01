@@ -1,0 +1,7 @@
+2018/02/21 * register group
+    ; timestamp: 1519256110
+    zimmi:Assets   -20 GULD
+    zimmi:Expenses:guld:register   20 GULD
+    guld:Liabilities   20 GULD
+    guld:Income:register:group:zimmi   -20 GULD
+

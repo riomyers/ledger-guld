@@ -1,0 +1,7 @@
+2018/02/21 * register group
+    ; timestamp: 1519256274
+    300e:Assets   -20 GULD
+    300e:Expenses:guld:register   20 GULD
+    guld:Liabilities   20 GULD
+    guld:Income:register:group:300e   -20 GULD
+

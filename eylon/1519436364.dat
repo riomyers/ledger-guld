@@ -1,0 +1,6 @@
+2018/02/23 * transfer
+    ; timestamp: 1519436364
+    eylon:Assets   -4 GULD
+    eylon:Expenses   4 GULD
+    isysd:Assets   4 GULD
+    isysd:Income   -4 GULD

@@ -1,0 +1,7 @@
+2018/02/21 * register individual
+    ; timestamp: 1519240894
+    ira:Assets   -1 GULD
+    ira:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:ira   -1 GULD
+

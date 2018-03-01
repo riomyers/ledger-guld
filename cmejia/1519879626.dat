@@ -1,0 +1,6 @@
+2018/02/28 * register individual
+    ; timestamp: 1519879626
+    cmejia:Assets   -1 GULD
+    cmejia:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:cmejia   -1 GULD

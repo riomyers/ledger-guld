@@ -1,0 +1,7 @@
+2018/02/21 * register group
+    ; timestamp: 1519256362
+    tigoctm:Assets   -20 GULD
+    tigoctm:Expenses:guld:register   20 GULD
+    guld:Liabilities   20 GULD
+    guld:Income:register:group:tigoctm   -20 GULD
+

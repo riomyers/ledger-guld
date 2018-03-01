@@ -1,0 +1,6 @@
+2018/02/20 * register individual
+; timestamp: 1519122246
+Rachel:Assets -1 GULD
+Rachel:Expenses:guld:register 1 GULD
+guld:Liabilities 1 GULD
+guld:Income:register:individual:Rachel -1 GULD

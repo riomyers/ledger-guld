@@ -1,0 +1,6 @@
+2018/02/21 * register individual
+    ; timestamp: 1519268145
+    juankong:Assets   -1 GULD
+    juankong:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:juankong   -1 GULD

@@ -1,0 +1,6 @@
+2018/02/28 * transfer
+    ; timestamp: 1519856317
+    isysd:Assets   -1 GULD
+    isysd:Expenses   1 GULD
+    jhking:Assets   1 GULD
+    jhking:Income   -1 GULD

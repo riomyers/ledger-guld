@@ -1,0 +1,7 @@
+2018/02/21 * register group
+    ; timestamp: 1519256062
+    mizim:Assets   -500 GULD
+    mizim:Expenses:guld:register   500 GULD
+    guld:Liabilities   500 GULD
+    guld:Income:register:group:mizim   -500 GULD
+

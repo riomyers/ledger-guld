@@ -1,0 +1,6 @@
+2018/03/01 * register individual
+    ; timestamp: 1519880558
+    jamesbong:Assets   -1 GULD
+    jamesbong:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:jamesbong   -1 GULD

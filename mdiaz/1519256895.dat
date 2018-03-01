@@ -1,0 +1,6 @@
+2018/02/01 * guldOS Tester Seminar 2 completion
+    mdiaz:Assets                              10 GULD
+    mdiaz:Income:guld                        -10 GULD
+    guld:Liabilities                                 -10 GULD
+    guld:Equity:mdiaz                         10 GULD
+
