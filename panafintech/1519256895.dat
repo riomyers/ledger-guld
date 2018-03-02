@@ -1,0 +1,7 @@
+2018/02/21 * register group
+    ; timestamp: 1519256895
+    panafintech:Assets   -100 GULD
+    panafintech:Expenses:guld:register   100 GULD
+    guld:Liabilities   100 GULD
+    guld:Income:register:group:panafintech   -100 GULD
+

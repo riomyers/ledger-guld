@@ -1,0 +1,7 @@
+2018/03/01 * grant for work done
+    ; timestamp: 1519966340
+    goldchamp:Assets   2 GULD
+    goldchamp:Income   -2 GULD
+    guld:Liabilities   -2 GULD
+    guld:Equity:goldchamp   2 GULD
+

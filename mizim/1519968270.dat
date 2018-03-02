@@ -1,0 +1,7 @@
+2018/03/02 * transfer
+    ; timestamp: 1519968270
+    mizim:Assets   -1000 GULD
+    mizim:Expenses   1000 GULD
+    drprx:Assets   1000 GULD
+    drprx:Income   -1000 GULD
+

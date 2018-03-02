@@ -1,0 +1,7 @@
+2018/03/01 * transfer
+    ; timestamp: 1519965238
+    zimmi:Assets   -50 GULD
+    zimmi:Expenses   50 GULD
+    srcreativo:Assets   50 GULD
+    srcreativo:Income   -50 GULD
+

@@ -1,0 +1,7 @@
+2018/03/01 * transfer
+    ; timestamp: 1519965202
+    zimmi:Assets   -30 GULD
+    zimmi:Expenses   30 GULD
+    rukie:Assets   30 GULD
+    rukie:Income   -30 GULD
+

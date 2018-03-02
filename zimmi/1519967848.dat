@@ -1,0 +1,7 @@
+2018/03/02 * transfer
+    ; timestamp: 1519967848
+    cz:Assets   -10000 GULD
+    cz:Expenses   10000 GULD
+    zimmi:Assets   10000 GULD
+    zimmi:Income   -10000 GULD
+

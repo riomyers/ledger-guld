@@ -1,0 +1,6 @@
+2018/03/01 * transfer
+    ; timestamp: 1519965611
+    fdreyfus:Assets   -80 GULD
+    fdreyfus:Expenses   80 GULD
+    cz:Assets   80 GULD
+    cz:Income   -80 GULD

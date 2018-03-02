@@ -1,0 +1,7 @@
+2018/03/02 * grant for work done
+    ; timestamp: 1519969693
+    aiamar:Assets   2 GULD
+    aiamar:Income   -2 GULD
+    guld:Liabilities   -2 GULD
+    guld:Equity:aiamar   2 GULD
+

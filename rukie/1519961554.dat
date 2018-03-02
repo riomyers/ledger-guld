@@ -1,0 +1,6 @@
+2018/03/01 * register individual
+    ; timestamp: 1519961554
+    rukie:Assets   -1 GULD
+    rukie:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:rukie   -1 GULD

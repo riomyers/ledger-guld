@@ -1,0 +1,6 @@
+2018/03/01 * transfer
+    ; timestamp: 1519965840
+    ying:Assets   -50 GULD
+    ying:Expenses   50 GULD
+    isysd:Assets   50 GULD
+    isysd:Income   -50 GULD

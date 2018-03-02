@@ -1,0 +1,7 @@
+2018/03/02 * grant for work done
+    ; timestamp: 1519969500
+    joestang:Assets   2 GULD
+    joestang:Income   -2 GULD
+    guld:Liabilities   -2 GULD
+    guld:Equity:joestang   2 GULD
+

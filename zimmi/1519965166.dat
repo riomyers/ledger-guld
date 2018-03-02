@@ -1,0 +1,7 @@
+2018/03/01 * transfer
+    ; timestamp: 1519965166
+    zimmi:Assets   -50 GULD
+    zimmi:Expenses   50 GULD
+    ying:Assets   50 GULD
+    ying:Income   -50 GULD
+

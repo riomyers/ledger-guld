@@ -1,0 +1,7 @@
+2018/03/01 * transfer
+    ; timestamp: 1519962084
+    isysd:Assets   -0.2 GULD
+    isysd:Expenses   0.2 GULD
+    freedom:Assets   0.2 GULD
+    freedom:Income   -0.2 GULD
+

@@ -1,0 +1,7 @@
+2018/03/01 * transfer
+    ; timestamp: 1519964806
+    zimmi:Assets   -80 GULD
+    zimmi:Expenses   80 GULD
+    goldchamp:Assets   80 GULD
+    goldchamp:Income   -80 GULD
+

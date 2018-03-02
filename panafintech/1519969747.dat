@@ -1,0 +1,7 @@
+2018/03/02 * grant for work done
+    ; timestamp: 1519969747
+    katz:Assets   2 GULD
+    katz:Income   -2 GULD
+    guld:Liabilities   -2 GULD
+    guld:Equity:katz   2 GULD
+

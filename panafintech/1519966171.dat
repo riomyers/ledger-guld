@@ -1,0 +1,7 @@
+2018/03/01 * grant for work done
+    ; timestamp: 1519966171
+    isysd:Assets   2 GULD
+    isysd:Income   -2 GULD
+    guld:Liabilities   -2 GULD
+    guld:Equity:isysd   2 GULD
+

@@ -1,0 +1,6 @@
+2018/03/02 * transfer
+    ; timestamp: 1519967347
+    srcreativo:Assets   -50 GULD
+    srcreativo:Expenses   50 GULD
+    cz:Assets   50 GULD
+    cz:Income   -50 GULD

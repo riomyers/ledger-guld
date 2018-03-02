@@ -1,0 +1,6 @@
+2018/03/02 * transfer
+    ; timestamp: 1519968972
+    goldchamp:Assets   -80 GULD
+    goldchamp:Expenses   80 GULD
+    cz:Assets   80 GULD
+    cz:Income   -80 GULD
