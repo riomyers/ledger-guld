@@ -1,0 +1,7 @@
+2018/03/02 * grant for work done
+    ; timestamp: 1519973105
+    rgec07:Assets   4 GULD
+    rgec07:Income   -4 GULD
+    guld:Liabilities   -4 GULD
+    guld:Equity:rgec07   4 GULD
+

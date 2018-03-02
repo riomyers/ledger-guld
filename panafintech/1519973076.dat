@@ -1,0 +1,7 @@
+2018/03/02 * grant for work done
+    ; timestamp: 1519973076
+    nicocaballero:Assets   6 GULD
+    nicocaballero:Income   -6 GULD
+    guld:Liabilities   -6 GULD
+    guld:Equity:nicocaballero   6 GULD
+

@@ -1,0 +1,7 @@
+2018/03/02 * grant for work done
+    ; timestamp: 1519972889
+    jtsang:Assets   8 GULD
+    jtsang:Income   -8 GULD
+    guld:Liabilities   -8 GULD
+    guld:Equity:jtsang   8 GULD
+

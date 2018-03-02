@@ -1,0 +1,7 @@
+2018/03/02 * transfer
+    ; timestamp: 1519973182
+    isysd:Assets   -10 GULD
+    isysd:Expenses   10 GULD
+    kay:Assets   10 GULD
+    kay:Income   -10 GULD
+

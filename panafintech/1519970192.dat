@@ -1,7 +1,7 @@
 2018/03/02 * grant for work done
     ; timestamp: 1519970192
-    guldjesus:Assets   2 GULD
-    guldjesus:Income   -2 GULD
+    guld-jesus:Assets   2 GULD
+    guld-jesus:Income   -2 GULD
     guld:Liabilities   -2 GULD
-    guld:Equity:guldjesus   2 GULD
+    guld:Equity:guld-jesus   2 GULD
 
