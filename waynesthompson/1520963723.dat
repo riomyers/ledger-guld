@@ -1,0 +1,6 @@
+2018/03/13 * register individual
+    ; timestamp: 1520963723
+    waynesthompson:Assets   -1 GULD
+    waynesthompson:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:waynesthompson   -1 GULD
