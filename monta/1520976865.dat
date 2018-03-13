@@ -1,0 +1,7 @@
+2018/03/13 * grant for work done
+    ; timestamp: 1520976865
+    monta:Assets   2 GULD
+    monta:Income   -2 GULD
+    guld:Liabilities   -2 GULD
+    guld:Equity:monta   2 GULD
+
