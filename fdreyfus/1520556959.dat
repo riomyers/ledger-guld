@@ -1,0 +1,6 @@
+2018/03/08 * transfer
+    ; timestamp: 1520556959
+    fdreyfus:Assets   -1 GULD
+    fdreyfus:Expenses   1 GULD
+    cryptobit:Assets   1 GULD
+    cryptobit:Income   -1 GULD

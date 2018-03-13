@@ -1,0 +1,7 @@
+2018/03/13 * transfer
+    ; timestamp: 1520925984
+    isysd:Assets   -100 GULD
+    isysd:Expenses   100 GULD
+    johnlouisoconnor:Assets   100 GULD
+    johnlouisoconnor:Income   -100 GULD
+

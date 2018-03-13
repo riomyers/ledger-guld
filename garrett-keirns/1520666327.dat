@@ -1,0 +1,6 @@
+2018/03/10 * register individual
+    ; timestamp: 1520666327
+    garrett-keirns:Assets   -1 GULD
+    garrett-keirns:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:garrett-keirns   -1 GULD

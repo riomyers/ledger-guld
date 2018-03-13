@@ -1,0 +1,6 @@
+2018/03/02 * register individual
+    ; timestamp: 1520046440
+    mozilla1:Assets   -1 GULD
+    mozilla1:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:mozilla1   -1 GULD

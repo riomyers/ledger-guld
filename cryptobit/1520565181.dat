@@ -1,0 +1,6 @@
+2018/03/08 * register individual
+    ; timestamp: 1520565181
+    cryptobit:Assets   -1 GULD
+    cryptobit:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:cryptobit   -1 GULD

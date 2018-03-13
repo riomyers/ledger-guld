@@ -1,0 +1,6 @@
+2018/03/10 * transfer
+    ; timestamp: 1520669805
+    isysd:Assets   -10 GULD
+    isysd:Expenses   10 GULD
+    garrett-keirns:Assets   10 GULD
+    garrett-keirns:Income   -10 GULD

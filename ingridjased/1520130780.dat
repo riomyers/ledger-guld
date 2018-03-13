@@ -1,0 +1,6 @@
+2018/03/03 * register individual
+    ; timestamp: 1520130780
+    ingridjased:Assets   -1 GULD
+    ingridjased:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:ingridjased   -1 GULD

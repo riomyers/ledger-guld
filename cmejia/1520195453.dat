@@ -1,0 +1,6 @@
+2018/03/04 * transfer
+    ; timestamp: 1520195453
+    cmejia:Assets   -100 GULD
+    cmejia:Expenses   100 GULD
+    cz:Assets   100 GULD
+    cz:Income   -100 GULD

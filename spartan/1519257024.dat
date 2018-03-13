@@ -1,0 +1,7 @@
+2018/02/21 * register group
+    ; timestamp: 1519257024
+    spartan:Assets   -10000 GULD
+    spartan:Expenses:guld:register   10000 GULD
+    guld:Liabilities   10000 GULD
+    guld:Income:register:group:spartan   -10000 GULD
+

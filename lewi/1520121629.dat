@@ -1,0 +1,6 @@
+2018/03/03 * register individual
+    ; timestamp: 1520121629
+    lewi:Assets   -1 GULD
+    lewi:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:lewi   -1 GULD

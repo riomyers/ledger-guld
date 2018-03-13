@@ -1,0 +1,6 @@
+2018/03/08 * transfer
+    ; timestamp: 1520546566
+    isysd:Assets   -1000 GULD
+    isysd:Expenses   1000 GULD
+    tinosangiorgio:Assets   1000 GULD
+    tinosangiorgio:Income   -1000 GULD

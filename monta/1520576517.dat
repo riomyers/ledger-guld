@@ -1,0 +1,6 @@
+2018/03/09 * register individual
+    ; timestamp: 1520576517
+    monta:Assets   -1 GULD
+    monta:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:monta   -1 GULD

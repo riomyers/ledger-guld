@@ -1,0 +1,7 @@
+2018/03/11 * grant for work done
+    ; timestamp: 1520816037
+    satoshi:Assets   1000 GULD
+    satoshi:Income   -1000 GULD
+    guld:Liabilities   -1000 GULD
+    guld:Equity:satoshi   1000 GULD
+

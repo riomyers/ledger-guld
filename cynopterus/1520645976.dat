@@ -1,0 +1,7 @@
+2018/03/09 * register individual
+    ; timestamp: 1520645976
+    cynopterus:Assets   -1 GULD
+    cynopterus:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:cynopterus   -1 GULD
+

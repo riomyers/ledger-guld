@@ -1,0 +1,6 @@
+2018/03/10 * transfer
+    ; timestamp: 1520660898
+    cmejia:Assets   -200 GULD
+    cmejia:Expenses   200 GULD
+    tigoctm:Assets   200 GULD
+    tigoctm:Income   -200 GULD
