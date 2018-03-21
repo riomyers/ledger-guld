@@ -1,0 +1,7 @@
+2018/03/13 * transfer
+    ; timestamp: 1520967091
+    isysd:Assets   -140 GULD
+    isysd:Expenses   140 GULD
+    pippo:Assets   140 GULD
+    pippo:Income   -140 GULD
+
