@@ -1,0 +1,7 @@
+2018/03/29 * transfer
+    ; timestamp: 1522345935
+    isysd:Assets   -1 @wksantiago
+    isysd:Expenses   1 @wksantiago
+    wksantiago:Assets   1 @wksantiago
+    wksantiago:Income   -1 @wksantiago
+
