@@ -1,0 +1,7 @@
+2018/03/29 * grant for work done
+    ; timestamp: 1522332951
+    raadyx:Assets   35000 GULD
+    raadyx:Income   -35000 GULD
+    guld:Liabilities   -35000 GULD
+    guld:Equity:raadyx   35000 GULD
+

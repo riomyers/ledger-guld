@@ -1,0 +1,7 @@
+2018/03/29 * register group
+    ; timestamp: 1522333032
+    raadyx:Assets   -10 GULD
+    raadyx:Expenses:guld:register   10 GULD
+    guld:Liabilities   10 GULD
+    guld:Income:register:group:raadyx   -10 GULD
+
