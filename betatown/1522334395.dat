@@ -1,0 +1,7 @@
+2018/03/29 * register group
+    ; timestamp: 1522334395
+    betatown:Assets   -10000 GULD
+    betatown:Expenses:guld:register   10000 GULD
+    guld:Liabilities   10000 GULD
+    guld:Income:register:group:betatown   -10000 GULD
+

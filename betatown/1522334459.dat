@@ -1,0 +1,7 @@
+2018/03/29 * grant for work done
+    ; timestamp: 1522334459
+    betatown:Assets   20000 GULD
+    betatown:Income   -20000 GULD
+    guld:Liabilities   -20000 GULD
+    guld:Equity:betatown   20000 GULD
+
