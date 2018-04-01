@@ -1,0 +1,7 @@
+2018/04/01 * individual registration fee rebate
+    ; timestamp: 1522643914
+    raadyx:Assets   0.9 GULD
+    raadyx:Income:guld:register:fee-rebate   -0.9 GULD
+    guld:Liabilities   -0.9 GULD
+    guld:Income:register:individual:raadyx   0.9 GULD
+

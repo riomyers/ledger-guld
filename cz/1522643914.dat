@@ -1,0 +1,7 @@
+2018/04/01 * individual registration fee rebate
+    ; timestamp: 1522643914
+    cz:Assets   0.9 GULD
+    cz:Income:guld:register:fee-rebate   -0.9 GULD
+    guld:Liabilities   -0.9 GULD
+    guld:Income:register:individual:cz   0.9 GULD
+

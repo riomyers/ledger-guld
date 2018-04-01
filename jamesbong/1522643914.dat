@@ -1,0 +1,7 @@
+2018/04/01 * individual registration fee rebate
+    ; timestamp: 1522643914
+    jamesbong:Assets   0.9 GULD
+    jamesbong:Income:guld:register:fee-rebate   -0.9 GULD
+    guld:Liabilities   -0.9 GULD
+    guld:Income:register:individual:jamesbong   0.9 GULD
+

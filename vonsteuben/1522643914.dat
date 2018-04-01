@@ -1,0 +1,7 @@
+2018/04/01 * individual registration fee rebate
+    ; timestamp: 1522643914
+    vonsteuben:Assets   0.9 GULD
+    vonsteuben:Income:guld:register:fee-rebate   -0.9 GULD
+    guld:Liabilities   -0.9 GULD
+    guld:Income:register:individual:vonsteuben   0.9 GULD
+

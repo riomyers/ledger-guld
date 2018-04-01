@@ -1,0 +1,7 @@
+2018/04/01 * group registration fee rebate
+    ; timestamp: 1522643914
+    300e:Assets   18.0 GULD
+    300e:Income:guld:register:fee-rebate   -18.0 GULD
+    guld:Liabilities   -18.0 GULD
+    guld:Income:register:group:300e   18.0 GULD
+

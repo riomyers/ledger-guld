@@ -1,0 +1,7 @@
+2018/04/01 * group registration fee rebate
+    ; timestamp: 1522643914
+    drprx:Assets   9.0 GULD
+    drprx:Income:guld:register:fee-rebate   -9.0 GULD
+    guld:Liabilities   -9.0 GULD
+    guld:Income:register:group:drprx   9.0 GULD
+

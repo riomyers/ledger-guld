@@ -1,0 +1,7 @@
+2018/04/01 * group registration fee rebate
+    ; timestamp: 1522643914
+    panafintech:Assets   90.0 GULD
+    panafintech:Income:guld:register:fee-rebate   -90.0 GULD
+    guld:Liabilities   -90.0 GULD
+    guld:Income:register:group:panafintech   90.0 GULD
+

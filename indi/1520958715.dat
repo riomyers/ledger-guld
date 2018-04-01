@@ -1,0 +1,7 @@
+2018/03/13 transfer
+    ; timestamp: 1520958715
+    isysd:Assets   -1200 GULD
+    isysd:Expenses   1200 GULD
+    indi:Assets   1200 GULD
+    indi:Income   -1200 GULD
+

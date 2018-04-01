@@ -1,0 +1,7 @@
+2018/04/01 * group registration fee rebate
+    ; timestamp: 1522643914
+    hodlmybeer:Assets   225.0 GULD
+    hodlmybeer:Income:guld:register:fee-rebate   -225.0 GULD
+    guld:Liabilities   -225.0 GULD
+    guld:Income:register:group:hodlmybeer   225.0 GULD
+

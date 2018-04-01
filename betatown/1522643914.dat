@@ -1,0 +1,7 @@
+2018/04/01 * group registration fee rebate
+    ; timestamp: 1522643914
+    betatown:Assets   9000.0 GULD
+    betatown:Income:guld:register:fee-rebate   -9000.0 GULD
+    guld:Liabilities   -9000.0 GULD
+    guld:Income:register:group:betatown   9000.0 GULD
+
