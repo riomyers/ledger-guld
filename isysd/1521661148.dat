@@ -1,0 +1,7 @@
+2018/03/21 * transfer
+    ; timestamp: 1521661148
+    isysd:Assets   -20 GULD
+    isysd:Expenses   20 GULD
+    d-boy:Assets   20 GULD
+    d-boy:Income   -20 GULD
+
