@@ -1,0 +1,7 @@
+2018/04/02 * transfer
+    ; timestamp: 1522702109
+    raadyx:Assets   -220 GULD
+    raadyx:Expenses   220 GULD
+    isysd:Assets   220 GULD
+    isysd:Income   -220 GULD
+
