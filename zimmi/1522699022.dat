@@ -1,0 +1,7 @@
+2018/04/02 * transfer
+    ; timestamp: 1522699022
+    zimmi:Assets   -60 GULD
+    zimmi:Expenses   60 GULD
+    mizim:Assets   60 GULD
+    mizim:Income   -60 GULD
+
