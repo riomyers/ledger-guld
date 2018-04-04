@@ -1,0 +1,7 @@
+2018/04/04 * grant for work done
+    ; timestamp: 1522802365
+    cmejia:Assets   200 GULD
+    cmejia:Income   -200 GULD
+    guld:Liabilities   -200 GULD
+    guld:Equity:cmejia   200 GULD
+
