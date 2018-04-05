@@ -1,0 +1,7 @@
+2018/04/03 * transfer
+    ; timestamp: 1522779974
+    isysd:Assets   -28 GULD
+    isysd:Expenses   28 GULD
+    gdhc:Assets   28 GULD
+    gdhc:Income   -28 GULD
+
