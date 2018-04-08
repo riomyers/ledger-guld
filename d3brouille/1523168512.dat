@@ -1,0 +1,7 @@
+2018/04/08 * individual registration fee rebate
+    ; timestamp: 1523168512
+    d3brouille:Assets   0.9 GULD
+    d3brouille:Income:guld:register:fee-rebate   -0.9 GULD
+    guld:Liabilities   -0.9 GULD
+    guld:Income:register:individual:d3brouille   0.9 GULD
+

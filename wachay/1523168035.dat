@@ -1,0 +1,5 @@
+2018/04/08 * Capitalization error correction 2
+    ; timestamp: 1523168035
+    guld:Income:register:individual:Wachay   1 GULD
+    guld:Income:register:individual:wachay   -1 GULD
+

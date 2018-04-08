@@ -1,0 +1,7 @@
+2018/04/08 * individual registration fee rebate
+    ; timestamp: 1523168533
+    fulloflife:Assets   0.9 GULD
+    fulloflife:Income:guld:register:fee-rebate   -0.9 GULD
+    guld:Liabilities   -0.9 GULD
+    guld:Income:register:individual:fulloflife   0.9 GULD
+
