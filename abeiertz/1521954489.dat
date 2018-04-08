@@ -1,0 +1,7 @@
+2018/03/25 * transfer
+    ; timestamp: 1521954489
+    abeiertz:Assets   -52 GULD
+    abeiertz:Expenses   52 GULD
+    isysd:Assets   52 GULD
+    isysd:Income   -52 GULD
+

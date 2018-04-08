@@ -1,0 +1,6 @@
+2018/03/28 * register individual
+    ; timestamp: 1522245511
+    indi:Assets   -1 GULD
+    indi:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:indi   -1 GULD

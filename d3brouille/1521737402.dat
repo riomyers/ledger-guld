@@ -1,0 +1,7 @@
+2018/03/22 * register individual
+    ; timestamp: 1521737402
+    d3brouille:Assets   -1 GULD
+    d3brouille:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:d3brouille   -1 GULD
+

@@ -1,0 +1,7 @@
+2018/04/08 * Capitalization error correction
+    ; timestamp: 1523168034
+    Wachay:Assets   -20 GULD
+    Wachay:Income   20 GULD
+    wachay:Assets   20 GULD
+    wachay:Income   -20 GULD
+

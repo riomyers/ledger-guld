@@ -1,0 +1,6 @@
+2018/04/05 * transfer
+    ; timestamp: 1522961929
+    fdreyfus:Assets   -2 GULD
+    fdreyfus:Expenses   2 GULD
+    dice:Assets   2 GULD
+    dice:Income   -2 GULD

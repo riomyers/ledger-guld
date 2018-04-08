@@ -1,0 +1,6 @@
+2018/03/27 * register individual
+    ; timestamp: 1522111187
+    pippo:Assets   -1 GULD
+    pippo:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:pippo   -1 GULD

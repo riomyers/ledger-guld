@@ -1,0 +1,6 @@
+2018/03/13 * register individual
+    ; timestamp: 1520948643
+    alex-vasquez:Assets   -1 GULD
+    alex-vasquez:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:alex-vasquez   -1 GULD

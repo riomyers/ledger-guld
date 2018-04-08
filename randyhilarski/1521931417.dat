@@ -1,0 +1,7 @@
+2018/03/24 * register individual
+    ; timestamp: 1521931417
+    randyhilarski:Assets   -1 GULD
+    randyhilarski:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:randyhilarski   -1 GULD
+

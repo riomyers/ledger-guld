@@ -1,0 +1,7 @@
+2018/03/14 * register individual
+    ; timestamp: 1520985783
+    adriaanbeiertz:Assets   -1 GULD
+    adriaanbeiertz:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:adriaanbeiertz   -1 GULD
+
