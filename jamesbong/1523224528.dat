@@ -1,0 +1,7 @@
+2018/04/08 * grant for work done
+    ; timestamp: 1523224528
+    jamesbong:Assets   10 GULD
+    jamesbong:Income   -10 GULD
+    guld:Liabilities   -10 GULD
+    guld:Equity:jamesbong   10 GULD
+

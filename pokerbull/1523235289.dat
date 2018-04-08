@@ -1,0 +1,6 @@
+2018/04/08 * register group
+    ; timestamp: 1523235289
+    pokerbull:Assets   -0.8 GULD
+    pokerbull:Expenses:guld:register   0.8 GULD
+    guld:Liabilities   0.8 GULD
+    guld:Income:register:group:gg:pokerbull   -0.8 GULD
