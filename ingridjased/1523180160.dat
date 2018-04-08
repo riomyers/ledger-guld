@@ -1,0 +1,6 @@
+2018/04/08 * register group
+    ; timestamp: 1523180160
+    ingridjased:Assets   -0.14084507 GULD
+    ingridjased:Expenses:guld:register   0.14084507 GULD
+    guld:Liabilities   0.14084507 GULD
+    guld:Income:register:group:gg:ingridjased   -0.14084507 GULD

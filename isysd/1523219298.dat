@@ -1,0 +1,7 @@
+2018/04/08 * register group
+    ; timestamp: 1523219298
+    isysd:Assets   -70.0 GULD
+    isysd:Expenses:guld:register   70.0 GULD
+    guld:Liabilities   70.0 GULD
+    guld:Income:register:group:gg:isysd   -70.0 GULD
+
