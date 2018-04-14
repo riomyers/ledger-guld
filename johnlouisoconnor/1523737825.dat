@@ -1,0 +1,7 @@
+2018/04/14 * individual registration fee rebate
+    ; timestamp: 1523737825
+    johnlouisoconnor:Assets   0.9 GULD
+    johnlouisoconnor:Income:guld:register:fee-rebate   -0.9 GULD
+    guld:Liabilities   -0.9 GULD
+    guld:Income:register:individual:johnlouisoconnor   0.9 GULD
+

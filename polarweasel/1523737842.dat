@@ -1,0 +1,7 @@
+2018/04/14 * individual registration fee rebate
+    ; timestamp: 1523737842
+    polarweasel:Assets   0.9 GULD
+    polarweasel:Income:guld:register:fee-rebate   -0.9 GULD
+    guld:Liabilities   -0.9 GULD
+    guld:Income:register:individual:polarweasel   0.9 GULD
+

@@ -1,0 +1,7 @@
+2018/04/14 * individual registration fee rebate
+    ; timestamp: 1523737825
+    rgec07:Assets   0.9 GULD
+    rgec07:Income:guld:register:fee-rebate   -0.9 GULD
+    guld:Liabilities   -0.9 GULD
+    guld:Income:register:individual:rgec07   0.9 GULD
+
