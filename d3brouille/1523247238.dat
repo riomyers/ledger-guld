@@ -1,0 +1,7 @@
+2018/04/09 * register group
+    ; timestamp: 1523247238
+    d3brouille:Assets   -0.2 GULD
+    d3brouille:Expenses:guld:register   0.2 GULD
+    guld:Liabilities   0.2 GULD
+    guld:Income:register:group:gg:d3brouille   -0.2 GULD
+
