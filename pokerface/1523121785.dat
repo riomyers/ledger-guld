@@ -1,0 +1,6 @@
+2018/04/07 * register individual 
+    ; timestamp: 1523121785 
+    pokerface:Assets   -0.1 GULD 
+    pokerface:Expenses:guld:register   0.1 GULD 
+    guld:Liabilities   0.1 GULD 
+    guld:Income:register:individual:pokerface   -0.1 GULD 

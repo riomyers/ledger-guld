@@ -1,0 +1,6 @@
+2018/04/04 * register individual
+    ; timestamp: 1522812653
+    dice:Assets   -0.1 GULD
+    dice:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:dice   -0.1 GULD

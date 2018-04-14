@@ -1,0 +1,6 @@
+2018/04/13 * register individual
+    ; timestamp: 1523660248
+    clivealb:Assets   -0.1 GULD
+    clivealb:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:clivealb   -0.1 GULD

@@ -1,0 +1,6 @@
+2018/03/21 * register individual
+    ; timestamp: 1521655828
+    hjdr:Assets   -1 GULD
+    hjdr:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:hjdr   -1 GULD

@@ -1,0 +1,6 @@
+2018/04/11 * register group
+    ; timestamp: 1523472986
+    polarweasel:Assets   -1.0 GULD
+    polarweasel:Expenses:guld:register   1.0 GULD
+    guld:Liabilities   1.0 GULD
+    guld:Income:register:group:gg:polarweasel   -1.0 GULD

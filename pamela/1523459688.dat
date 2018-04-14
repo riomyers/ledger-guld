@@ -1,0 +1,6 @@
+2018/04/11 * register group
+    ; timestamp: 1523459688
+    pamela:Assets   -1.0 GULD
+    pamela:Expenses:guld:register   1.0 GULD
+    guld:Liabilities   1.0 GULD
+    guld:Income:register:group:gg:pamela   -1.0 GULD

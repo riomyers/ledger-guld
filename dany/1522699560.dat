@@ -1,0 +1,6 @@
+2018/04/02 * register individual
+    ; timestamp: 1522699560
+    dany:Assets   -0.1 GULD
+    dany:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:dany   -0.1 GULD

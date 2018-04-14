@@ -1,0 +1,6 @@
+2018/03/30 * register individual
+    ; timestamp: 1522445654
+    chrsgk:Assets   -1 GULD
+    chrsgk:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:chrsgk   -1 GULD

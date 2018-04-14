@@ -1,0 +1,6 @@
+2018/04/04 * register individual
+    ; timestamp: 1522856745
+    fjason:Assets   -0.1 GULD
+    fjason:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:fjason   -0.1 GULD

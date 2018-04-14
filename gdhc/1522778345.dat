@@ -1,0 +1,6 @@
+2018/04/03 * register individual
+    ; timestamp: 1522778345
+    gdhc:Assets   -0.1 GULD
+    gdhc:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:gdhc   -0.1 GULD

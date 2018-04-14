@@ -1,0 +1,6 @@
+2018/03/16 * register individual
+    ; timestamp: 1521235063
+    johnlouisoconnor:Assets   -1 GULD
+    johnlouisoconnor:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:johnlouisoconnor   -1 GULD

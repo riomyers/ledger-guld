@@ -1,0 +1,6 @@
+2018/04/11 * register group
+    ; timestamp: 1523462168
+    rukie:Assets   -10.0 GULD
+    rukie:Expenses:guld:register   10.0 GULD
+    guld:Liabilities   10.0 GULD
+    guld:Income:register:group:gg:rukie   -10.0 GULD

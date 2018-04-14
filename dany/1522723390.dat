@@ -1,0 +1,6 @@
+2018/04/03 * transfer
+    ; timestamp: 1522723390
+    dany:Assets   -20 GULD
+    dany:Expenses   20 GULD
+    isysd:Assets   20 GULD
+    isysd:Income   -20 GULD

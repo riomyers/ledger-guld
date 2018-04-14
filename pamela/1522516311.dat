@@ -1,0 +1,6 @@
+2018/03/31 * register individual
+    ; timestamp: 1522516311
+    pamela:Assets   -1 GULD
+    pamela:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:pamela   -1 GULD

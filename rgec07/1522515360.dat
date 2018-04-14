@@ -1,0 +1,6 @@
+2018/03/31 * register individual
+    ; timestamp: 1522515360
+    rgec07:Assets   -1 GULD
+    rgec07:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:rgec07   -1 GULD
