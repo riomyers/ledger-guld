@@ -1,6 +1,6 @@
 2018/04/11 * register individual
-; timestamp: 1523411140
-annawanderer:Assets -0.1 GULD
-annawanderer:Expenses:guld:register 0.1 GULD
-guld:Liabilities 0.1 GULD
-guld:Income:register:individual:annawanderer -0.1 GULD
+    ; timestamp: 1523411140
+    annawanderer:Assets    -0.1 GULD
+    annawanderer:Expenses:guld:register    0.1 GULD
+    guld:Liabilities     0.1 GULD
+    guld:Income:register:individual:annawanderer    -0.1 GULD
