@@ -1,0 +1,6 @@
+2018/04/15 * register group
+    ; timestamp: 1523817010
+    jamesbong:Assets   -0.934 GULD
+    jamesbong:Expenses:guld:register   0.934 GULD
+    guld:Liabilities   0.934 GULD
+    guld:Income:register:group:gg:jamesbong   -0.934 GULD
