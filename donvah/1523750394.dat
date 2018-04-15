@@ -1,0 +1,6 @@
+2018/04/14 * register individual
+    ; timestamp: 1523750394
+    donvah:Assets   -0.1 GULD
+    donvah:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:donvah   -0.1 GULD
