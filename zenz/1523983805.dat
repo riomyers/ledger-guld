@@ -1,0 +1,6 @@
+2018/04/17 * register individual
+    ; timestamp: 1523983805
+    zenz:Assets   -0.1 GULD
+    zenz:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:zenz   -0.1 GULD

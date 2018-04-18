@@ -1,0 +1,6 @@
+2018/04/17 * register group
+    ; timestamp: 1523976065
+    fdreyfus:Assets   -0.5 GULD
+    fdreyfus:Expenses:guld:register   0.5 GULD
+    guld:Liabilities   0.5 GULD
+    guld:Income:register:group:gg:fdreyfus   -0.5 GULD

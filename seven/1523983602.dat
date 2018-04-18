@@ -1,0 +1,6 @@
+2018/04/17 * register individual
+    ; timestamp: 1523983602
+    seven:Assets   -0.1 GULD
+    seven:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:seven   -0.1 GULD
