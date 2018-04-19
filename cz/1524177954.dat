@@ -1,0 +1,6 @@
+2018/04/19 * register group
+    ; timestamp: 1524177954
+    cz:Assets   -2.0 GULD
+    cz:Expenses:guld:register   2.0 GULD
+    guld:Liabilities   2.0 GULD
+    guld:Income:register:group:gg:cz   -2.0 GULD

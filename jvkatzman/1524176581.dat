@@ -1,0 +1,6 @@
+2018/04/19 * register group
+    ; timestamp: 1524176581
+    jvkatzman:Assets   -2.0 GULD
+    jvkatzman:Expenses:guld:register   2.0 GULD
+    guld:Liabilities   2.0 GULD
+    guld:Income:register:group:gg:jvkatzman   -2.0 GULD
