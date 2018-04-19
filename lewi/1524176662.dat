@@ -1,0 +1,6 @@
+2018/04/19 * register group
+    ; timestamp: 1524176662
+    lewi:Assets   -1.5 GULD
+    lewi:Expenses:guld:register   1.5 GULD
+    guld:Liabilities   1.5 GULD
+    guld:Income:register:group:gg:lewi   -1.5 GULD

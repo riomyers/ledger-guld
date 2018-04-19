@@ -1,0 +1,6 @@
+2018/04/19 * register group
+    ; timestamp: 1524172532
+    joestang:Assets   -27.0 GULD
+    joestang:Expenses:guld:register   27.0 GULD
+    guld:Liabilities   27.0 GULD
+    guld:Income:register:group:gg:joestang   -27.0 GULD
