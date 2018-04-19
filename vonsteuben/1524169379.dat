@@ -1,0 +1,6 @@
+2018/04/19 * register group
+    ; timestamp: 1524169379
+    vonsteuben:Assets   -10.0 GULD
+    vonsteuben:Expenses:guld:register   10.0 GULD
+    guld:Liabilities   10.0 GULD
+    guld:Income:register:group:gg:vonsteuben   -10.0 GULD
