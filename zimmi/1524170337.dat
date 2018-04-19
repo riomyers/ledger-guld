@@ -1,0 +1,7 @@
+2018/04/19 * transfer
+    ; timestamp: 1524170337
+    zimmi:Assets   -100 GULD
+    zimmi:Expenses   100 GULD
+    isysd:Assets   100 GULD
+    isysd:Income   -100 GULD
+
