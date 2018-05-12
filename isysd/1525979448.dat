@@ -1,0 +1,7 @@
+2018/05/10 * transfer
+    ; timestamp: 1525979448
+    isysd:Assets   -1000 GULD
+    isysd:Expenses   1000 GULD
+    pokerface:Assets   1000 GULD
+    pokerface:Income   -1000 GULD
+
