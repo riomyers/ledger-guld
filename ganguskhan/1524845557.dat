@@ -1,0 +1,6 @@
+2018/04/27 * register individual
+    ; timestamp: 1524845557
+    ganguskhan:Assets   -0.1 GULD
+    ganguskhan:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:ganguskhan   -0.1 GULD

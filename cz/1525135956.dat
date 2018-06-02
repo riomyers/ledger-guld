@@ -1,0 +1,6 @@
+2018/05/01 * transfer
+    ; timestamp: 1525135956
+    cz:Assets   -10 GULD
+    cz:Expenses   10 GULD
+    mako:Assets   10 GULD
+    mako:Income   -10 GULD

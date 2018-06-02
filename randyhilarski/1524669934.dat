@@ -1,0 +1,7 @@
+2018/04/25 * register group
+    ; timestamp: 1524669934
+    randyhilarski:Assets   -30.0 GULD
+    randyhilarski:Expenses:guld:register   30.0 GULD
+    guld:Liabilities   30.0 GULD
+    guld:Income:register:group:gg:randyhilarski   -30.0 GULD
+

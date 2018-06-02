@@ -1,0 +1,6 @@
+2018/05/29 * register individual
+    ; timestamp: 1527600682
+    stevenhaddadian:Assets   -0.1 GULD
+    stevenhaddadian:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:stevenhaddadian   -0.1 GULD

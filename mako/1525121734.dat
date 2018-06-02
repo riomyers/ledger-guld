@@ -1,0 +1,6 @@
+2018/04/30 * register individual
+    ; timestamp: 1525121734
+    mako:Assets   -0.1 GULD
+    mako:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:mako   -0.1 GULD

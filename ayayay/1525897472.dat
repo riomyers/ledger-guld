@@ -1,0 +1,6 @@
+2018/05/09 * register individual
+    ; timestamp: 1525897472
+    ayayay:Assets   -0.1 GULD
+    ayayay:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:ayayay   -0.1 GULD
