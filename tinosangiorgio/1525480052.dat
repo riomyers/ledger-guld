@@ -1,0 +1,6 @@
+2018/05/05 * register individual
+    ; timestamp: 1525480052
+    tinosangiorgio:Assets   -0.1 GULD
+    tinosangiorgio:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:tinosangiorgio   -0.1 GULD

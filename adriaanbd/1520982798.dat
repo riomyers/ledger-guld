@@ -1,0 +1,7 @@
+2018/03/13 * register individual
+    ; timestamp: 1520982798
+    adriaanbd:Assets   -1 GULD
+    adriaanbd:Expenses:guld:register   1 GULD
+    guld:Liabilities   1 GULD
+    guld:Income:register:individual:adriaanbd   -1 GULD
+

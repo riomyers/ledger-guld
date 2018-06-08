@@ -1,0 +1,6 @@
+2018/04/28 * register group
+    ; timestamp: 1524941589
+    veronica:Assets   -0.1 GULD
+    veronica:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:group:gg:veronica   -0.1 GULD

@@ -1,0 +1,6 @@
+2018/05/11 * register individual
+    ; timestamp: 1526051746
+    marco:Assets   -0.1 GULD
+    marco:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:marco   -0.1 GULD

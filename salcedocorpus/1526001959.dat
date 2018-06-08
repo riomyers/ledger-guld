@@ -1,0 +1,6 @@
+2018/05/11 * register individual
+    ; timestamp: 1526001959
+    salcedocorpus:Assets   -0.1 GULD
+    salcedocorpus:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:salcedocorpus   -0.1 GULD

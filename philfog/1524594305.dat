@@ -1,0 +1,6 @@
+2018/04/24 * register individual
+    ; timestamp: 1524594305
+    philfog:Assets   -0.1 GULD
+    philfog:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:philfog   -0.1 GULD

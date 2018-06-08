@@ -1,0 +1,6 @@
+2018/04/28 * register individual
+    ; timestamp: 1524940853
+    vcdreyfus:Assets   -0.1 GULD
+    vcdreyfus:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:vcdreyfus   -0.1 GULD
