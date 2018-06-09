@@ -1,0 +1,6 @@
+2018/06/06 * register individual
+    ; timestamp: 1528297444
+    idia-egonmwan:Assets   -0.1 GULD
+    idia-egonmwan:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:idia-egonmwan   -0.1 GULD
