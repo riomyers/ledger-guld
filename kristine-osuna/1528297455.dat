@@ -1,0 +1,6 @@
+2018/06/06 * register individual
+    ; timestamp: 1528297455
+    kristine-osuna:Assets   -0.1 GULD
+    kristine-osuna:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:kristine-osuna   -0.1 GULD
