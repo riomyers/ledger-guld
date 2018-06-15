@@ -1,0 +1,6 @@
+2018/06/05 * transfer
+    ; timestamp: 1528226225
+    cmejia:Assets   -10 GULD
+    cmejia:Expenses   10 GULD
+    juankong:Assets   10 GULD
+    juankong:Income   -10 GULD

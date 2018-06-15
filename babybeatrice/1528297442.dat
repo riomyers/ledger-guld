@@ -1,0 +1,6 @@
+2018/06/06 * register individual
+    ; timestamp: 1528297442
+    babybeatrice:Assets   -0.1 GULD
+    babybeatrice:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:babybeatrice   -0.1 GULD

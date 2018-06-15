@@ -1,0 +1,6 @@
+2018/06/06 * register individual
+    ; timestamp: 1528297443
+    statiamarieshillingford:Assets   -0.1 GULD
+    statiamarieshillingford:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:statiamarieshillingford   -0.1 GULD
