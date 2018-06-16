@@ -1,0 +1,6 @@
+2018/06/15 * transfer
+    ; timestamp: 1529101363
+    09gregco:Assets   -6 GULD
+    09gregco:Expenses   6 GULD
+    isysd:Assets   6 GULD
+    isysd:Income   -6 GULD
