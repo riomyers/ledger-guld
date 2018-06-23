@@ -1,0 +1,6 @@
+2018/06/23 * register individual
+    ; timestamp: 1529782138
+    sergio:Assets   -0.1 GULD
+    sergio:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:sergio   -0.1 GULD
