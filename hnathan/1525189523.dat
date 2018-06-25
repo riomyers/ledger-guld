@@ -1,0 +1,6 @@
+2018/05/01 * register individual
+    ; timestamp: 1525189523
+    hnathan:Assets   -0.1 GULD
+    hnathan:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:hnathan   -0.1 GULD
