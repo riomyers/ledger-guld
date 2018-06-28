@@ -1,0 +1,6 @@
+2018/06/28 * transfer
+    ; timestamp: 1530207611
+    randyhilarski:Assets   -1000 GULD
+    randyhilarski:Expenses   1000 GULD
+    halo-scott:Assets   1000 GULD
+    halo-scott:Income   -1000 GULD

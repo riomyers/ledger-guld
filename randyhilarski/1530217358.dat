@@ -1,0 +1,7 @@
+2018/06/28 * transfer
+    ; timestamp: 1530217358
+    randyhilarski:Assets   -200 GULD
+    randyhilarski:Expenses   200 GULD
+    goldseek:Assets   200 GULD
+    goldseek:Income   -200 GULD
+
