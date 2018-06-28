@@ -1,0 +1,6 @@
+2018/06/28 * register individual
+    ; timestamp: 1530198301
+    halo-scott:Assets   -0.1 GULD
+    halo-scott:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:halo-scott   -0.1 GULD

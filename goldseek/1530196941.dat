@@ -1,0 +1,6 @@
+2018/06/28 * register individual
+    ; timestamp: 1530196941
+    goldseek:Assets   -0.1 GULD
+    goldseek:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:goldseek   -0.1 GULD
