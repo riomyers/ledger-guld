@@ -1,9 +1,9 @@
 2018/07/03 * loan
     ; timestamp: 1530649571
-    mizim:Assets   -990 GULD
-    mizim:Expenses   990 GULD
-    mizim:Assets:Credit:bitcoin   990 GULD
-    bitcoin:Assets   990 GULD
-    bitcoin:Income   -990 GULD
-    bitcoin:Liabilities   -990 GULD
+    mizim:Assets   -1000 GULD
+    mizim:Expenses   1000 GULD
+    mizim:Assets:Credit:bitcoin   1000 GULD
+    bitcoin:Assets   1000 GULD
+    bitcoin:Income   -1000 GULD
+    bitcoin:Liabilities   -1000 GULD
 
