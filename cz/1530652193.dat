@@ -1,0 +1,7 @@
+2018/07/03 * register group
+    ; timestamp: 1530652193
+    cz:Assets   -0.1 GULD
+    cz:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:group:ethereum:cz   -0.1 GULD
+
