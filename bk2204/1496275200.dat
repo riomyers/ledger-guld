@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    bk2204:Assets                              100 GULD
-    bk2204:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:bk2204                          100 GULD

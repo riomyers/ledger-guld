@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    jitter:Assets                              100 GULD
-    jitter:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:jitter                          100 GULD

@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    robinj:Assets                              100 GULD
-    robinj:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:robinj                          100 GULD

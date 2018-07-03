@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    byk:Assets                              100 GULD
-    byk:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:byk                          100 GULD

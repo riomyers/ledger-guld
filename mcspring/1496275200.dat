@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    mcspring:Assets                              100 GULD
-    mcspring:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:mcspring                          100 GULD

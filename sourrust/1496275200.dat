@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    sourrust:Assets                              100 GULD
-    sourrust:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:sourrust                          100 GULD

@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    newren:Assets                              100 GULD
-    newren:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:newren                          100 GULD

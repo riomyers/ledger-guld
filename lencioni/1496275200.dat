@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    lencioni:Assets                              100 GULD
-    lencioni:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:lencioni                          100 GULD

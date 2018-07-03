@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    cshrem:Assets                              1000 GULD
-    cshrem:Income:guld                        -1000 GULD
-    guld:Liabilities                         -1000 GULD
-    guld:Equity:cshrem                          1000 GULD

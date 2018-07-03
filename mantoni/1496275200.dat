@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    mantoni:Assets                              100 GULD
-    mantoni:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:mantoni                          100 GULD

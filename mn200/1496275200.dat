@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    mn200:Assets                              100 GULD
-    mn200:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:mn200                          100 GULD

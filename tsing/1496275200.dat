@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    tsing:Assets                              100 GULD
-    tsing:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:tsing                          100 GULD

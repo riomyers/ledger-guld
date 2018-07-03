@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    coupej:Assets                              100 GULD
-    coupej:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:coupej                          100 GULD

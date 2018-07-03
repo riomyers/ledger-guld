@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    havardh:Assets                              100 GULD
-    havardh:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:havardh                          100 GULD

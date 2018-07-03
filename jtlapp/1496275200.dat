@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    jtlapp:Assets                              100 GULD
-    jtlapp:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:jtlapp                          100 GULD

@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    uzyn:Assets                              100 GULD
-    uzyn:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:uzyn                          100 GULD

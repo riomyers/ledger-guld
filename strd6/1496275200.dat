@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    strd6:Assets                              100 GULD
-    strd6:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:strd6                          100 GULD

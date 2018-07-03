@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    mikeal:Assets                              100 GULD
-    mikeal:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:mikeal                          100 GULD

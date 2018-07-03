@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    kimptoc:Assets                              100 GULD
-    kimptoc:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:kimptoc                          100 GULD

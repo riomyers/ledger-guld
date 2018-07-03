@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    sholladay:Assets                              100 GULD
-    sholladay:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:sholladay                          100 GULD

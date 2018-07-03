@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    thaiat:Assets                              100 GULD
-    thaiat:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:thaiat                          100 GULD

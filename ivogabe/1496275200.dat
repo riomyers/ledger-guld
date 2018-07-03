@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    ivogabe:Assets                              100 GULD
-    ivogabe:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:ivogabe                          100 GULD

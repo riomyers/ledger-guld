@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    julliard:Assets                              100 GULD
-    julliard:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:julliard                          100 GULD

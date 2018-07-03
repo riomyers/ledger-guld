@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    cmpolis:Assets                              100 GULD
-    cmpolis:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:cmpolis                          100 GULD

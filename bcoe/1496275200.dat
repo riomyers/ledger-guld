@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    bcoe:Assets                              100 GULD
-    bcoe:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:bcoe                          100 GULD

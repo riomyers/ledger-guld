@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    jgable:Assets                              100 GULD
-    jgable:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:jgable                          100 GULD

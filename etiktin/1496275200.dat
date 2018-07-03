@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    etiktin:Assets                              100 GULD
-    etiktin:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:etiktin                          100 GULD

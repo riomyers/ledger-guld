@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    samcday:Assets                              100 GULD
-    samcday:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:samcday                          100 GULD

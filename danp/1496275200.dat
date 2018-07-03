@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    danp:Assets                              100 GULD
-    danp:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:danp                          100 GULD

@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    cowboy:Assets                              100 GULD
-    cowboy:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:cowboy                          100 GULD

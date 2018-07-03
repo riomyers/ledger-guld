@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    lepture:Assets                              100 GULD
-    lepture:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:lepture                          100 GULD

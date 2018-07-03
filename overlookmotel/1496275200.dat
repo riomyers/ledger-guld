@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    overlookmotel:Assets                              100 GULD
-    overlookmotel:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:overlookmotel                          100 GULD

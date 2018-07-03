@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    gitster:Assets                              1000 GULD
-    gitster:Income:guld                        -1000 GULD
-    guld:Liabilities                         -1000 GULD
-    guld:Equity:gitster                          1000 GULD

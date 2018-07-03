@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    maxrimue:Assets                              100 GULD
-    maxrimue:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:maxrimue                          100 GULD

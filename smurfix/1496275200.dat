@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    smurfix:Assets                              100 GULD
-    smurfix:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:smurfix                          100 GULD

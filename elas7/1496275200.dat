@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    elas7:Assets                              100 GULD
-    elas7:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:elas7                          100 GULD

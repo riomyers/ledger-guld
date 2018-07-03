@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    der-on:Assets                              100 GULD
-    der-on:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:der-on                          100 GULD

@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    mlanza:Assets                              100 GULD
-    mlanza:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:mlanza                          100 GULD

@@ -1,5 +1,0 @@
-2018/01/03 * guld pre-founding contributions
-    zimer:Assets                              1000 GULD
-    zimer:Income:guld                        -1000 GULD
-    guld:Liabilities                         -1000 GULD
-    guld:Equity:zimer                         1000 GULD

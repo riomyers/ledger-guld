@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    lfac-pt:Assets                              100 GULD
-    lfac-pt:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:lfac-pt                          100 GULD

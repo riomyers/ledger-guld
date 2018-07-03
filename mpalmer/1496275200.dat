@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    mpalmer:Assets                              100 GULD
-    mpalmer:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:mpalmer                          100 GULD

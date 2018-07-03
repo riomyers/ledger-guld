@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    ducas:Assets                              100 GULD
-    ducas:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:ducas                          100 GULD

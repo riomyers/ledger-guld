@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    munkee:Assets                              100 GULD
-    munkee:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:munkee                          100 GULD

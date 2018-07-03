@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    marchant:Assets                              100 GULD
-    marchant:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:marchant                          100 GULD

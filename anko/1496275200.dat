@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    anko:Assets                              100 GULD
-    anko:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:anko                          100 GULD

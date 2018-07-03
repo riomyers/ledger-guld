@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    bittrance:Assets                              100 GULD
-    bittrance:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:bittrance                          100 GULD

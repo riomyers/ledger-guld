@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    jcorbin:Assets                              100 GULD
-    jcorbin:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:jcorbin                          100 GULD

@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    jhs:Assets                              100 GULD
-    jhs:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:jhs                          100 GULD

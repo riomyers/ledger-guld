@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    gpoul:Assets                              100 GULD
-    gpoul:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:gpoul                          100 GULD

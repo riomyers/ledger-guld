@@ -1,5 +1,0 @@
-2016/06/01 * guld pre-founding contributions
-    arv:Assets                              100 GULD
-    arv:Income:guld                        -100 GULD
-    guld:Liabilities                         -100 GULD
-    guld:Equity:arv                          100 GULD
