@@ -1,0 +1,7 @@
+2018/07/03 * transfer
+    ; timestamp: 1530645069
+    zimmi:Assets   -100 GULD
+    zimmi:Expenses   100 GULD
+    polarweasel:Assets   100 GULD
+    polarweasel:Income   -100 GULD
+
