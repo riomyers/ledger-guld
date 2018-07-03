@@ -1,0 +1,7 @@
+2018/07/03 * register group
+    ; timestamp: 1530651886
+    tigoctm:Assets   -10.0 GULD
+    tigoctm:Expenses:guld:register   10.0 GULD
+    guld:Liabilities   10.0 GULD
+    guld:Income:register:group:ethereum:tigoctm   -10.0 GULD
+
