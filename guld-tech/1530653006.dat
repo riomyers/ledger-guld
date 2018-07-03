@@ -1,0 +1,7 @@
+2018/07/03 * transfer
+    ; timestamp: 1530653006
+    guld-tech:Assets   -20 GULD
+    guld-tech:Expenses   20 GULD
+    rukie:Assets   20 GULD
+    rukie:Income   -20 GULD
+

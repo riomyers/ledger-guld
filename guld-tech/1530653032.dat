@@ -1,0 +1,7 @@
+2018/07/03 * transfer
+    ; timestamp: 1530653032
+    guld-tech:Assets   -20 GULD
+    guld-tech:Expenses   20 GULD
+    lewi:Assets   20 GULD
+    lewi:Income   -20 GULD
+
