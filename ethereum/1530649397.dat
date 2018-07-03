@@ -1,0 +1,7 @@
+2018/07/03 * register chain
+    ; timestamp: 1530649397
+    ethereum:Assets   -1000.0 GULD
+    ethereum:Expenses:guld:register   1000.0 GULD
+    guld:Liabilities   1000.0 GULD
+    guld:Income:register:chain:ethereum   -1000.0 GULD
+

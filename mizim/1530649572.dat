@@ -1,0 +1,9 @@
+2018/07/03 * loan
+    ; timestamp: 1530649572
+    mizim:Assets   -990 GULD
+    mizim:Expenses   990 GULD
+    mizim:Assets:Credit:ethereum   990 GULD
+    ethereum:Assets   990 GULD
+    ethereum:Income   -990 GULD
+    ethereum:Liabilities   -990 GULD
+

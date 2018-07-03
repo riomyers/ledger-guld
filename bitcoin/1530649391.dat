@@ -1,0 +1,7 @@
+2018/07/03 * register chain
+    ; timestamp: 1530649391
+    bitcoin:Assets   -1000.0 GULD
+    bitcoin:Expenses:guld:register   1000.0 GULD
+    guld:Liabilities   1000.0 GULD
+    guld:Income:register:chain:bitcoin   -1000.0 GULD
+
