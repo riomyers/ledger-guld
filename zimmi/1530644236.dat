@@ -1,0 +1,7 @@
+2018/07/03 * transfer
+    ; timestamp: 1530644236
+    zimmi:Assets   -9000 GULD
+    zimmi:Expenses   9000 GULD
+    guld-tech:Assets   9000 GULD
+    guld-tech:Income   -9000 GULD
+

@@ -1,0 +1,7 @@
+2018/07/03 * transfer
+    ; timestamp: 1530644198
+    zimmi:Assets   -9000 GULD
+    zimmi:Expenses   9000 GULD
+    ovum:Assets   9000 GULD
+    ovum:Income   -9000 GULD
+
