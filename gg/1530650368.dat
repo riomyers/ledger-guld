@@ -1,0 +1,6 @@
+2018/07/03 * register ledger
+    ; timestamp: 1530650368
+    ; reallocate some previously burned GULD
+    guld:Income:register:group:gg   100.0 GULD
+    guld:Income:register:ledger:gg   -100.0 GULD
+

@@ -1,0 +1,6 @@
+2018/07/03 * register ledger
+    ; timestamp: 1530650264
+    tigoctm:Assets   -100.0 GULD
+    tigoctm:Expenses:guld:register   100.0 GULD
+    guld:Liabilities   100.0 GULD
+    guld:Income:register:ledger:xcm:tigoctm   -100.0 GULD
