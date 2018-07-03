@@ -1,0 +1,7 @@
+2018/07/03 * transfer
+    ; timestamp: 1530644912
+    zimmi:Assets   -100 GULD
+    zimmi:Expenses   100 GULD
+    vonsteuben:Assets   100 GULD
+    vonsteuben:Income   -100 GULD
+
