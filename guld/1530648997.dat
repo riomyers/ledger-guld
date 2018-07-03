@@ -1,0 +1,6 @@
+2018/07/03 * register ledger
+    ; timestamp: 1530648997
+    ; liabilities untouched for regitration funded by guld group
+    guld:Expenses:guld:register   100.0 GULD
+    guld:Income:register:ledger:guld   -100.0 GULD
+
