@@ -1,0 +1,7 @@
+2018/07/03 * register group
+    ; timestamp: 1530657969
+    zimmi:Assets   -10.0 GULD
+    zimmi:Expenses:guld:register   10.0 GULD
+    guld:Liabilities   10.0 GULD
+    guld:Income:register:group:dash:zimmi   -10.0 GULD
+
