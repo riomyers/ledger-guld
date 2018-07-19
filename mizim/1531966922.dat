@@ -1,0 +1,23 @@
+= mizim:Expenses:Sales:ingridjased
+    ; CONTRACT: template/SALES_COMMISSION_AGREEMENT.md
+    ; START_TIME: 1531966922
+    ; EXPIRE_TIME: 1563503020
+    ; PARTY1_NAME: mizim
+    ; PARTY1_KEY: mizim:Equity
+    ; COUNTRY1: Panama
+    ; PARTY2_NAME: ingridjased
+    ; PARTY2_KEY: D76986F2F4B2DBEFB85ADE7A532F13634AC2E74D
+    ; PARTY2_ADDRESS: ingridjased
+    ; COUNTRY2: Panama
+    ; GOOD1: GULD
+    ; RATE: 10
+    ; PRICE_USD: 75
+    ; CURRENCY_LIST: BTC, ETH, DASH, USD
+    ; BTC_ADDRESS: 1FVa2fGZqVzDXer8HirMcKSbDcfR4R4zNK
+    ; ETH_ADDRESS.: 0xA92131AbaBFA2C7cb3ABb4b089705A1D64Ff8642
+    ; DASH_ADDRESS: XgUUUh7tqngC6SZ9uFMZjkQvRRuzdee8A4
+    ; BANK_WIRING_INFO: dotfiles/mizim/sales/.gitconfig:bank-panama-aurora
+    ; ARBITRATOR: denfab
+    ingridjased:Assets    0.1
+    ingridjased:Income:Sales-Commission    -0.1
+
