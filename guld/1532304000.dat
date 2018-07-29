@@ -1,0 +1,4 @@
+2018/07/23 * Zimmi contracts 500 ISYSD to guld-tech for 3400 GULD
+    ; timestamp: 1532304000
+    guld:Equity:zimmi               3400 GULD
+    guld:Liabilities:zimmi               -3400 GULD

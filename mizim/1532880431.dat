@@ -1,0 +1,8 @@
+2018/07/29 * ERC20 GULD contract
+    ; CONTRACT: template/Ethereum/ERC20_GULD_CONTRACT.md
+    ; START_TIME: 1532880431
+    ; ARBITRATOR: denfab
+    mizim:Assets   -100000 GULD
+    mizim:Expenses:guld:ERC20   100000 GULD
+    guld:Assets:ERC20   100000 GULD
+    guld:Income:ERC20   -100000 GULD
