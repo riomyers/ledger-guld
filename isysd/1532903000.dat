@@ -8,6 +8,6 @@
     ; PARTY2_ADDRESS: 0x99e3fc9c9b993b8522d9831dad45ba63fe64847a
     isysd:Assets   -100.1 GULD
     isysd:Expenses   100.1 GULD
-    mizim:Liabilities:EGULD:isysd   100 GULD
+    mizim:Assets:Payable:EGULD:isysd   100 GULD
     mizim:Assets   0.1 GULD
     mizim:Income:EGULD   -100.1 GULD
