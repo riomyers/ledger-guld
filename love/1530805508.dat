@@ -1,0 +1,7 @@
+2018/07/05 * register individual
+    ; timestamp: 1530805508
+    love:Assets   -0.1 GULD
+    love:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:love   -0.1 GULD
+

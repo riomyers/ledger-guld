@@ -1,0 +1,6 @@
+2018/07/05 * register individual
+    ; timestamp: 1530753691
+    jean-cabezas:Assets   -0.1 GULD
+    jean-cabezas:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:jean-cabezas   -0.1 GULD

@@ -1,0 +1,6 @@
+2018/07/04 * register individual
+    ; timestamp: 1530733535
+    adrian:Assets   -0.1 GULD
+    adrian:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:adrian   -0.1 GULD

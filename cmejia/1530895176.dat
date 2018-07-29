@@ -1,0 +1,6 @@
+2018/07/06 * transfer
+    ; timestamp: 1530895176
+    cmejia:Assets   -300 GULD
+    cmejia:Expenses   300 GULD
+    love:Assets   300 GULD
+    love:Income   -300 GULD

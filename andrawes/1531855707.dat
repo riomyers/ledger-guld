@@ -1,0 +1,6 @@
+2018/07/17 * register individual
+    ; timestamp: 1531855707
+    andrawes:Assets   -0.1 GULD
+    andrawes:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:andrawes   -0.1 GULD
