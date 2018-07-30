@@ -1,0 +1,14 @@
+2018/07/30 * Mizim ERC20 GULD Purchase
+    ; TEMPLATE: ledger/trade/INTERNATIONAL_SALE_GOODS_U1000.md
+    ; START_TIME: 1532973942
+    ; ADDRESS: 0xcAB5bbdB90f57853b59abA182c4501B483daB8eD
+    ; PARTY2_NAME: isysd
+    ; OFFER: mizim/1532897505.dat
+    ; PRICE_TOTAL: 100.1
+    ; PARTY2_ADDRESS: 0xcAB5bbdB90f57853b59abA182c4501B483daB8eD
+    isysd:Assets   -100.1 GULD
+    isysd:Expenses   100.1 GULD
+    mizim:Liabilities:EGULD:isysd   100 GULD
+    mizim:Assets   0.1 GULD
+    mizim:Income:EGULD   -100.1 GULD
+
