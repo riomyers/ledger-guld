@@ -1,0 +1,13 @@
+2018/07/30 * Mizim ERC20 GULD Purchase
+    ; TEMPLATE: ledger/trade/INTERNATIONAL_SALE_GOODS_U1000.md
+    ; START_TIME: 1532916672
+    ; ADDRESS: 0x2d914EE92914C3E1CCad74cc47939612720C92a4
+    ; PARTY2_NAME: cz
+    ; OFFER: mizim/1532897505.dat
+    ; PRICE_TOTAL: 100.1
+    ; PARTY2_ADDRESS: 0x2d914EE92914C3E1CCad74cc47939612720C92a4
+    cz:Assets   -100.1 GULD
+    cz:Expenses   100.1 GULD
+    mizim:Liabilities:EGULD:cz   100 GULD
+    mizim:Assets   0.1 GULD
+    mizim:Income:EGULD   -100.1 GULD
