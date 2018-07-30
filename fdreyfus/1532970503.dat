@@ -1,0 +1,13 @@
+2018/07/30 * Mizim ERC20 GULD Purchase
+    ; TEMPLATE: ledger/trade/INTERNATIONAL_SALE_GOODS_U1000.md
+    ; START_TIME: 1532970503
+    ; ADDRESS: 0x6b73288099D11990E446c7D6962C3ed8bd52a874
+    ; PARTY2_NAME: fdreyfus
+    ; OFFER: mizim/1532897505.dat
+    ; PRICE_TOTAL: 15.1
+    ; PARTY2_ADDRESS: 0x6b73288099D11990E446c7D6962C3ed8bd52a874
+    fdreyfus:Assets   -15.1 GULD
+    fdreyfus:Expenses   15.1 GULD
+    mizim:Liabilities:EGULD:fdreyfus   15 GULD
+    mizim:Assets   0.1 GULD
+    mizim:Income:EGULD   -15.1 GULD
