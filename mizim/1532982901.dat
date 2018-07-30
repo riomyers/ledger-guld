@@ -1,0 +1,7 @@
+2018/07/30 * Mizim ERC20 Sent
+    ; timestamp: 1532982901
+    ; TXHASH: 0x4af89a2205027c9644e9c4b3c3ecadfb46fc798d77cb6b937bb3020d157f6259
+    ; ADDRESS: 0x5c577677E74DBf3f1d4e7075f24Cb0f88d3eF6dC
+    mizim:Assets:Payable:EGULD:ingridjased   -100 GULD
+    mizim:Expenses    100 GULD
+
