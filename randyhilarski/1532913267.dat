@@ -1,0 +1,14 @@
+2018/07/30 * Mizim ERC20 GULD Purchase
+    ; TEMPLATE: ledger/trade/INTERNATIONAL_SALE_GOODS_U1000.md
+    ; START_TIME: 1532913267
+    ; ADDRESS: 0xFFF2Da0B9299afF339F9Eea01356F0bE7f3829D2
+    ; PARTY2_NAME: randyhilarski
+    ; OFFER: mizim/1532897505.dat
+    ; PRICE_TOTAL: 8000.1
+    ; PARTY2_ADDRESS: 0xFFF2Da0B9299afF339F9Eea01356F0bE7f3829D2
+    randyhilarski:Assets   -8000.1 GULD
+    randyhilarski:Expenses   8000.1 GULD
+    mizim:Liabilities:EGULD:randyhilarski   8000 GULD
+    mizim:Assets   0.1 GULD
+    mizim:Income:EGULD   -8000.1 GULD
+
