@@ -1,0 +1,6 @@
+2018/07/31 * transfer
+    ; timestamp: 1533067897
+    fdreyfus:Assets   -5 GULD
+    fdreyfus:Expenses   5 GULD
+    enoyof:Assets   5 GULD
+    enoyof:Income   -5 GULD
