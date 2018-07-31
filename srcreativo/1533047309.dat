@@ -1,0 +1,13 @@
+2018/07/31 * Mizim ERC20 GULD Purchase
+    ; TEMPLATE: ledger/trade/INTERNATIONAL_SALE_GOODS_U1000.md
+    ; START_TIME: 1533047309
+    ; ADDRESS: 0xCaa47FD10F77aE1C14beAA7BCE32188Dd22f74eA
+    ; PARTY2_NAME: srcreativo
+    ; OFFER: mizim/1532897505.dat
+    ; PRICE_TOTAL: 68.1
+    ; PARTY2_ADDRESS: 0xCaa47FD10F77aE1C14beAA7BCE32188Dd22f74eA
+    srcreativo:Assets   -68.1 GULD
+    srcreativo:Expenses   68.1 GULD
+    mizim:Liabilities:EGULD:srcreativo   68 GULD
+    mizim:Assets   0.1 GULD
+    mizim:Income:EGULD   -68.1 GULD
