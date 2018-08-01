@@ -1,0 +1,13 @@
+2018/08/01 * Mizim ERC20 GULD Purchase
+    ; TEMPLATE: ledger/trade/INTERNATIONAL_SALE_GOODS_U1000.md
+    ; START_TIME: 1533129977
+    ; ADDRESS: 0x4bc0d80ffd7e86716e0A9D94Cd9cc2122fcB7156
+    ; PARTY2_NAME: guld-jesus
+    ; OFFER: mizim/1532897505.dat
+    ; PRICE_TOTAL: 1000.1
+    ; PARTY2_ADDRESS: 0x4bc0d80ffd7e86716e0A9D94Cd9cc2122fcB7156
+    guld-jesus:Assets   -1000.1 GULD
+    guld-jesus:Expenses   1000.1 GULD
+    mizim:Liabilities:EGULD:guld-jesus   1000 GULD
+    mizim:Assets   0.1 GULD
+    mizim:Income:EGULD   -1000.1 GULD
