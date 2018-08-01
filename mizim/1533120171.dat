@@ -1,0 +1,6 @@
+2018/08/01 * Mizim ERC20 Sent
+    ; timestamp: 1533120171
+    ; TXHASH: 0x9e27239f8e560a90fe99b7ceb6d7be71d3a625d889a0f4ed1c0f7197d5dae075
+    ; ADDRESS: 0x4bc0d80ffd7e86716e0A9D94Cd9cc2122fcB7156
+    mizim:Assets:Payable:EGULD:guld-jesus   -1000 GULD
+    mizim:Expenses   1000 GULD

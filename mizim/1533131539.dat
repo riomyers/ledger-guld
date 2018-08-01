@@ -1,0 +1,16 @@
+2018/08/01 * move liabilities to payable
+    mizim:Liabilities:EGULD:cz    -100 GULD
+    mizim:Assets:Payable:EGULD:cz    100 GULD
+    mizim:Liabilities:EGULD:fdreyfus    -80 GULD
+    mizim:Assets:Payable:EGULD:fdreyfus    80 GULD
+    mizim:Liabilities:EGULD:guld-jesus    -1000 GULD
+    mizim:Assets:Payable:EGULD:guld-jesus    1000 GULD
+    mizim:Liabilities:EGULD:ingridjased    -100 GULD
+    mizim:Assets:Payable:EGULD:ingridjased    100 GULD
+    mizim:Liabilities:EGULD:isysd    -100 GULD
+    mizim:Assets:Payable:EGULD:isysd    100 GULD
+    mizim:Liabilities:EGULD:randyhilarski    -8000 GULD
+    mizim:Assets:Payable:EGULD:randyhilarski    8000 GULD
+    mizim:Liabilities:EGULD:srcreativo    -68 GULD
+    mizim:Assets:Payable:EGULD:srcreativo    68 GULD
+
