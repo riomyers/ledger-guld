@@ -1,0 +1,6 @@
+2018/08/01 * register individual
+    ; timestamp: 1533128441
+    guld-jesus:Assets   -0.1 GULD
+    guld-jesus:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:guld-jesus   -0.1 GULD
