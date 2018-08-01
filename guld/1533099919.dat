@@ -1,0 +1,7 @@
+2018/08/01 * grant for work done
+    ; timestamp: 1533099919
+    polarweasel:Assets   133.333333 GULD
+    polarweasel:Income   -133.333333 GULD
+    guld:Liabilities   -133.333333 GULD
+    guld:Equity:polarweasel   133.333333 GULD
+
