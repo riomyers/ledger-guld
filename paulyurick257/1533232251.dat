@@ -1,0 +1,6 @@
+2018/08/02 * register individual
+    ; timestamp: 1533232251
+    paulyurick257:Assets   -0.1 GULD
+    paulyurick257:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:paulyurick257   -0.1 GULD
