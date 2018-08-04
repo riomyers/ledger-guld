@@ -1,0 +1,7 @@
+2018/07/03 * grant for work done
+    ; timestamp: 1530653006
+    guld:Liabilities   -20 GULD
+    guld:Equity:rukie   20 GULD
+    rukie:Assets   20 GULD
+    rukie:Income   -20 GULD
+
