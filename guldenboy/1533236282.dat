@@ -1,0 +1,6 @@
+2018/08/02 * register individual
+    ; timestamp: 1533236282
+    guldenboy:Assets   -0.1 GULD
+    guldenboy:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:guldenboy   -0.1 GULD
