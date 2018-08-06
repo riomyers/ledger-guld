@@ -1,0 +1,13 @@
+2018/08/03 * Mizim ERC20 GULD Purchase
+    ; TEMPLATE: ledger/trade/INTERNATIONAL_SALE_GOODS_U1000.md
+    ; START_TIME: 1533309707
+    ; ADDRESS: 0x150298ee0236160E56A8Fef3E1e63E4808883df6
+    ; PARTY2_NAME: hjdr
+    ; OFFER: mizim/1532897505.dat
+    ; PRICE_TOTAL: 45.1
+    ; PARTY2_ADDRESS: 0x150298ee0236160E56A8Fef3E1e63E4808883df6
+    hjdr:Assets   -45.1 GULD
+    hjdr:Expenses   45.1 GULD
+    mizim:Assets:Payable:EGULD:hjdr   45 GULD
+    mizim:Assets   0.1 GULD
+    mizim:Income:EGULD   -45.1 GULD
