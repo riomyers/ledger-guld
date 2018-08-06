@@ -1,0 +1,7 @@
+2018/07/03 * grant for work done
+    ; timestamp: 1530653032
+    guld:Liabilities   -20 GULD
+    guld:Equity:lewi   20 GULD
+    lewi:Assets   20 GULD
+    lewi:Income   -20 GULD
+
