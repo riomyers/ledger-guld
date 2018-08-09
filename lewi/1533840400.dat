@@ -1,0 +1,6 @@
+2018/08/09 * transfer
+    ; timestamp: 1533840400
+    lewi:Assets   -3 GULD
+    lewi:Expenses   3 GULD
+    dice:Assets   3 GULD
+    dice:Income   -3 GULD
