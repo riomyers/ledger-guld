@@ -1,0 +1,7 @@
+2018/08/10 * register individual
+    ; timestamp: 1533872063
+    rhc-15665719:Assets   -0.1 GULD
+    rhc-15665719:Expenses:guld:register   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:rhc-15665719   -0.1 GULD
+
