@@ -1,0 +1,6 @@
+2018/08/10 * transfer
+    ; timestamp: 1533908683
+    fdreyfus:Assets   -100 GULD
+    fdreyfus:Expenses   100 GULD
+    philfog:Assets   100 GULD
+    philfog:Income   -100 GULD
