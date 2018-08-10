@@ -1,0 +1,6 @@
+2018/08/07 * transfer
+    ; timestamp: 1533684930
+    isysd:Assets   -1 GULD
+    isysd:Expenses   1 GULD
+    cz:Assets   1 GULD
+    cz:Income   -1 GULD
