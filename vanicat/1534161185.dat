@@ -1,0 +1,7 @@
+2018/08/13 * register individual
+    ; timestamp: 1534161185
+    vanicat:Assets   -0.1 GULD
+    vanicat:Expenses   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:vanicat   -0.1 GULD
+
