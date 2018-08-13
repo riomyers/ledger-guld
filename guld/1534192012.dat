@@ -1,0 +1,7 @@
+2018/08/13 * grant for work done
+    ; timestamp: 1534192012
+    cryptolir:Assets   10 GULD
+    cryptolir:Income   -10 GULD
+    guld:Liabilities   -10 GULD
+    guld:Equity:cryptolir   10 GULD
+
