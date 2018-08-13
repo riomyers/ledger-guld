@@ -1,0 +1,7 @@
+2018/08/13 * grant for work done
+    ; timestamp: 1534193408
+    stefdelev:Assets   10 GULD
+    stefdelev:Income   -10 GULD
+    guld:Liabilities   -10 GULD
+    guld:Equity:stefdelev   10 GULD
+
