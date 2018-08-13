@@ -1,0 +1,7 @@
+2018/08/12 * register individual
+    ; timestamp: 1534093323
+    jwiegley:Assets   -0.1 GULD
+    jwiegley:Expenses   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:jwiegley   -0.1 GULD
+
