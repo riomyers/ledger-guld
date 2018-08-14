@@ -1,0 +1,7 @@
+2018/08/14 * register individual
+    ; timestamp: 1534276342
+    unindented:Assets   -0.1 GULD
+    unindented:Expenses   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:unindented   -0.1 GULD
+
