@@ -1,0 +1,7 @@
+2018/08/20 * register individual
+    ; timestamp: 1534734030
+    nylen:Assets   -0.1 GULD
+    nylen:Expenses   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:nylen   -0.1 GULD
+
