@@ -1,0 +1,7 @@
+2018/08/21 * register individual
+    ; timestamp: 1534864250
+    melmanci:Assets   -0.1 GULD
+    melmanci:Expenses   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:melmanci   -0.1 GULD
+
