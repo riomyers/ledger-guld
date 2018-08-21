@@ -1,0 +1,7 @@
+2018/08/21 * register individual
+    ; timestamp: 1534875813
+    edwardgray:Assets   -0.1 GULD
+    edwardgray:Expenses   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:edwardgray   -0.1 GULD
+
