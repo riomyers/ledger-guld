@@ -1,0 +1,6 @@
+2018/08/22 * reject grant
+    ; timestamp: 1534976968
+    alejandro-palomar:Assets                              -1000 GULD
+    alejandro-palomar:Income:guld                        1000 GULD
+    guld:Liabilities                         1000 GULD
+    guld:Equity:alejandro-palomar                          -1000 GULD
