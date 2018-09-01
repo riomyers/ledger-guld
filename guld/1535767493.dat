@@ -1,0 +1,7 @@
+2018/09/01 * grant for work done
+    ; timestamp: 1535767493
+    jamesbong:Assets   277.75 GULD
+    jamesbong:Income   -277.75 GULD
+    guld:Liabilities   -277.75 GULD
+    guld:Equity:jamesbong   277.75 GULD
+
