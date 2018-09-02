@@ -1,0 +1,7 @@
+2018/09/01 * grant for work done
+    ; timestamp: 1535767555
+    dice:Assets   66.6666 GULD
+    dice:Income   -66.6666 GULD
+    guld:Liabilities   -66.6666 GULD
+    guld:Equity:dice   66.6666 GULD
+
