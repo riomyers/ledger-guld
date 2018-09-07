@@ -1,0 +1,7 @@
+2018/08/25 * register individual
+    ; timestamp: 1535238101
+    pepita:Assets   -0.1 GULD
+    pepita:Expenses   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:pepita   -0.1 GULD
+
