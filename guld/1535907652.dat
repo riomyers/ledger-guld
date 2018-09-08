@@ -1,0 +1,7 @@
+2018/09/02 * grant for work done
+    ; timestamp: 1535907652
+    srcreativo:Assets   66.6666 GULD
+    srcreativo:Income   -66.6666 GULD
+    guld:Liabilities   -66.6666 GULD
+    guld:Equity:srcreativo   66.6666 GULD
+
