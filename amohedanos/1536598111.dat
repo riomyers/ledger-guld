@@ -1,0 +1,7 @@
+2018/09/10 * register individual
+    ; timestamp: 1536598111
+    amohedanos:Assets   -0.1 GULD
+    amohedanos:Expenses   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:amohedanos   -0.1 GULD
+
