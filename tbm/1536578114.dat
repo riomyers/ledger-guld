@@ -1,0 +1,7 @@
+2018/09/10 * register individual
+    ; timestamp: 1536578114
+    tbm:Assets   -0.1 GULD
+    tbm:Expenses   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:tbm   -0.1 GULD
+
