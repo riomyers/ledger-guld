@@ -1,0 +1,7 @@
+2018/09/11 * register individual
+    ; timestamp: 1536688709
+    lucerogray94:Assets   -0.1 GULD
+    lucerogray94:Expenses   0.1 GULD
+    guld:Liabilities   0.1 GULD
+    guld:Income:register:individual:lucerogray94   -0.1 GULD
+
